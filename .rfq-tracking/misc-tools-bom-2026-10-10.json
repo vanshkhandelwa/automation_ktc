@@ -1,0 +1,28 @@
+{
+  "enquiry": "Action Can AC-90, Taparia TS 12P, fan D-hook M12x120, Allwyn calling bell 150mm",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-10T17:45:00.000+05:30",
+  "gmailLabel": "RFQ/Sent",
+  "items": [
+    {"description": "AC-90 multi-purpose lubricant spray", "make": "Action Can", "qty": 3, "uom": "PC"},
+    {"description": "Tubular box spanner set TS 12P", "make": "Taparia", "qty": 2, "uom": "PC"},
+    {"description": "Ceiling fan D-hook hanger M12x120", "make": "Raputed (BOQ)", "qty": 5, "uom": "PC"},
+    {"description": "Calling bell industrial heavy duty 6A 240V 150mm", "make": "Allwyn", "qty": 5, "uom": "PC"}
+  ],
+  "sent": [
+    {"dealer": "Cromwell Industrial Supplies", "email": "sales@cromwell.co.in", "scope": "Action Can AC-90", "threadId": "1a126ebfa5b0e7dd"},
+    {"dealer": "Taparia Tools OEM", "email": "sales@tapariatools.com", "scope": "TS 12P", "threadId": "1a126ebfae367831"},
+    {"dealer": "Valisons & Co.", "email": "sales@valisons.com", "scope": "TS 12P", "threadId": "1a126ebfa90bc9d1"},
+    {"dealer": "Joshi Tools & Electronics", "email": "sales108@joshitools.com", "scope": "TS 12P", "threadId": "1a126ec132aaafb8"},
+    {"dealer": "Matariya Industries (Lexur)", "email": "matariyaindustries@gmail.com", "scope": "Fan D-hook M12x120", "threadId": "1a126ec1b5df8b54"},
+    {"dealer": "Industrybuying", "email": "sales@industrybuying.com", "scope": "Full BOM", "threadId": "1a126ebfa07de259"},
+    {"dealer": "Eleczo", "email": "sales@eleczo.com", "scope": "Full BOM", "threadId": "1a126ec21c8d9058"},
+    {"dealer": "My Electric", "email": "Sales@myelectric.in", "scope": "Full BOM", "threadId": "1a126ec20dab3d1e"},
+    {"dealer": "JSR Group", "email": "info@jsrgroup.in", "scope": "Full BOM", "threadId": "1a126ec2705c4c73"}
+  ],
+  "skipped": [
+    {"dealer": "Allwyn Electrical Industries OEM", "reason": "No verified public email"}
+  ]
+}

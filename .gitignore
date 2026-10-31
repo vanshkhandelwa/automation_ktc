@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+data/
+*.tsbuildinfo
+.DS_Store
+
+# Local RFQ batch helpers (optional scripts)
+.rfq-tracking/_wa_batch_out.jsonl
+.rfq-tracking/_wa_batch_send.py

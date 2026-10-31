@@ -1,0 +1,22 @@
+{
+  "enquiry": "APV Enterprises Siemens motors (8 line items)",
+  "whatsappSentAt": "2026-09-20T19:00:00.000Z",
+  "dealersWhatsApp": [
+    {"name": "Debak Enterprises (Bhiwadi)", "phone": "919694085374", "waId": "3EB067FCE0F80FCA51AD05", "auth": "Likely"},
+    {"name": "S.B. Syscon", "phone": "919899598955", "waId": "3EB028A0F9B2BD68831595", "auth": "Likely"},
+    {"name": "The Indian Electric Co.", "phone": "918956339127", "waId": "3EB00DD4AB370232CCDDA1", "auth": "Likely"},
+    {"name": "Vashi Integrated Solutions", "phone": "918097433790", "waId": "3EB0BB1CA28E1C9A2A6484", "auth": "Likely"},
+    {"name": "SALOC Technologies", "phone": "919686447828", "waId": "3EB0E16AF37F63D4D093A3", "auth": "Likely"},
+    {"name": "We Tech Power Solutions", "phone": "918347089089", "waId": "3EB0A8521AF2C674E35002", "auth": "Likely"},
+    {"name": "K Dhandapani & Co.", "phone": "919886491000", "waId": "3EB064B0BD570009199F80", "auth": "Likely"}
+  ],
+  "altPhonesFound": [
+    {"name": "Debak HO", "phone": "919599384824"},
+    {"name": "Debak Bhiwadi branch", "phone": "918739981555"},
+    {"name": "Indian Electric alt", "phone": "919922417229"},
+    {"name": "SALOC alt", "phone": "919845045485"},
+    {"name": "We Tech alts", "phones": ["918347044744", "919067230578", "919099959998"]},
+    {"name": "K Dhandapani alt", "phone": "919448280490"},
+    {"name": "BB Power Noida (Unverified Siemens)", "phone": "919643101711", "sent": false}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "enquiry": "PROFIBUS cable — 300 meters",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-05T06:00:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "labelId": "Label_9",
+  "emailCount": 10,
+  "subject": "Requirement for PROFIBUS cable — 300 meters",
+  "recipients": [
+    { "name": "LAPP India", "email": "info.in.lib@lapp.com", "threadId": "1a10aa0d4284531c" },
+    { "name": "Phoenix Contact India", "email": "in-info@phoenixcontact.com", "threadId": "1a10aa0d418be0ee" },
+    { "name": "Pepperl+Fuchs India", "email": "sales@in.pepperl-fuchs.com", "threadId": "1a10aa0db05135a2" },
+    { "name": "Elegar Kerpen", "email": "contact@elegar-kerpen.com", "threadId": "1a10a9f307ff17ed" },
+    { "name": "EKA CNC & Automations", "email": "ekacncindia@gmail.com", "threadId": "1a10aa0da52a8fd9" },
+    { "name": "BluBoxx Communication", "email": "sales@bbcpl.in", "threadId": "1a10aaa2581a0240" },
+    { "name": "RS Components India", "email": "sales@rs-components.co.in", "threadId": "1a10aaa253fa4803" },
+    { "name": "Rexel India", "email": "sales.bangalore@rexel.co.in", "threadId": "1a10aaa26f2d06a6" },
+    { "name": "Kenter Cables", "email": "sales@kentercables.com", "threadId": "1a10aaa28d16b42a" },
+    { "name": "M.E.M. Industries", "email": "cables@memindustries.com", "threadId": "1a10aaa2d7a90426" }
+  ]
+}

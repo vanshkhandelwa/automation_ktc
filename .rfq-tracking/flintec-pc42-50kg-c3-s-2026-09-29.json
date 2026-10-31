@@ -1,0 +1,40 @@
+{
+  "enquiry": "Load cell for Flintec, PC42-50KG-C3-S",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "item": {
+    "brand": "Flintec",
+    "model": "PC42-50KG-C3-S",
+    "description": "Single-point load cell, 50 kg, C3",
+    "quantity": 1
+  },
+  "sentAt": "2026-09-29T09:57:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "dealersEmailed": [
+    {
+      "name": "Flintec India (OEM)",
+      "email": "website@flintec.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0ec99552abc86b",
+      "messageId": "1a0ec99552abc86b",
+      "gmailLink": "https://mail.google.com/mail/u/0/#inbox/1a0ec99552abc86b",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Perk Mercantile Pvt. Ltd.",
+      "email": "ajmerah@concept-electronics.com",
+      "authorised": "Likely",
+      "threadId": "1a0ec99518132167",
+      "messageId": "1a0ec99518132167",
+      "gmailLink": "https://mail.google.com/mail/u/0/#inbox/1a0ec99518132167",
+      "reminderSent": false,
+      "quoteLogged": false
+    }
+  ],
+  "dealersSkipped": [
+    {"name": "Weighsense Tech Solutions", "reason": "No public email; phone 08047679941"},
+    {"name": "PSC Industrial Solutions", "reason": "Unverified; no verified public email"},
+    {"name": "Swastik Systems & Services", "reason": "Unverified; no exact PC42-50KG listing"}
+  ]
+}

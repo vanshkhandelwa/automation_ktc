@@ -1,0 +1,45 @@
+{
+  "enquiry": "RHI Magnesita Rajgangpur BOQ — AB soft starter 132kW; pressure transmitter ±14 mmWC x2; load cells bagging x4; Yaskawa V1000 5.5kW x2; ABB ACS560-01-05A6-4 x2",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "endUseSite": "M/s RHI Magnesita, Rajgangpur (Odisha)",
+  "status": "sent",
+  "sentAt": "2026-10-13T13:55:00.000+05:30",
+  "gmailLabel": "RFQ/Sent",
+  "labelId": "Label_9",
+  "emailCount": 14,
+  "recipients": [
+    { "bundle": "Allen-Bradley soft starter", "name": "Wishtroop Automation", "email": "sales@wishtroop.com", "threadId": "1a13459978fdf87b" },
+    { "bundle": "Allen-Bradley soft starter", "name": "Asteam Techno Solutions", "email": "contact@asteamtechno.com", "threadId": "1a134598d0b7fd7d" },
+    { "bundle": "Pressure transmitter", "name": "Tenacious Instrument", "email": "sales@tenaciousinstrument.in", "threadId": "1a134612caebe5d3" },
+    { "bundle": "Pressure transmitter", "name": "Kuncham Controls", "email": "sales@kunchamcontrols.com", "threadId": "1a134598f54458c8" },
+    { "bundle": "Load cells", "name": "Sensotronic System", "email": "info@sensotronic.co.in", "threadId": "1a13459c5de981ea" },
+    { "bundle": "Load cells", "name": "IPA India", "email": "sales@ipaindia.com", "threadId": "1a13459c7ef59d3e" },
+    { "bundle": "Load cells", "name": "EWS Mechatronics", "email": "info@ewsmechatronics.com", "threadId": "1a13459d2b5c5e11" },
+    { "bundle": "Yaskawa V1000", "name": "Yaskawa India", "email": "sales@yaskawa.in", "threadId": "1a134615bd28beb9" },
+    { "bundle": "Yaskawa V1000", "name": "EKA CNC", "email": "ekacncindia@gmail.com", "threadId": "1a13461561b5708a" },
+    { "bundle": "ABB ACS560", "name": "Vashi Integrated Solutions", "email": "sales@vashiisl.com", "threadId": "1a1346159108c786" },
+    { "bundle": "ABB ACS560", "name": "ABB India drives", "email": "in.drivessupport@in.abb.com", "threadId": "1a134615f0292722" },
+    { "bundle": "ABB ACS560", "name": "Suyash Technologies", "email": "st@suyashtechnologies.in", "threadId": "1a134615f966f40d" },
+    { "bundle": "ABB ACS560", "name": "BMP Systems", "email": "info@bmpsystems.in", "threadId": "1a1346164b000ea9" }
+  ],
+  "whatsappStatus": "partial",
+  "dealersWhatsApp": [
+    { "name": "Tenacious Instrument", "phone": "917984840004", "bundle": "Pressure transmitter", "waId": "3EB0E829309E6BBA74D1F9" },
+    { "name": "Kuncham Controls", "phone": "919004104717", "bundle": "Pressure transmitter", "waId": "3EB020A86F13BD43D3CD9E" }
+  ],
+  "whatsappPending": [
+    { "name": "Sensotronic System", "phone": "919377922907", "bundle": "Load cells" },
+    { "name": "EWS Mechatronics", "phone": "919319413577", "bundle": "Load cells" },
+    { "name": "EKA CNC", "phone": "919043336700", "bundle": "Yaskawa V1000" },
+    { "name": "Suyash Technologies", "phone": "919080108605", "bundle": "ABB ACS560" },
+    { "name": "BMP Systems", "phone": "918617789524", "bundle": "ABB ACS560" }
+  ],
+  "whatsappSkipped": [
+    { "name": "Wishtroop Automation", "phone": "9198765503076", "reason": "not on WhatsApp" },
+    { "name": "Asteam Techno", "phone": "9199537840404", "reason": "not on WhatsApp" },
+    { "name": "IPA India", "reason": "landline only on public listing" },
+    { "name": "Yaskawa India", "reason": "OEM desk — email only" },
+    { "name": "Vashi / ABB India", "reason": "email only" }
+  ]
+}

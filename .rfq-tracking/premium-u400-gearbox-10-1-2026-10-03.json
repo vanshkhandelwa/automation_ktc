@@ -1,0 +1,66 @@
+{
+  "enquiry": "GEAR BOX U-400 RATIO 10:1 — Make Premium Transmission — Qty 10 pcs",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "quantity": 10,
+  "status": "sent",
+  "sentAt": "2026-10-02T19:16:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "labelStatus": "applied Label_9 to all 5 threads",
+  "subject": "Requirement for Premium Transmission Gear Box U-400 Ratio 10:1 — qty 10",
+  "specs": {
+    "make": "Premium Transmission",
+    "model": "U-400",
+    "ratio": "10:1",
+    "type": "Worm gear box"
+  },
+  "dealersEmailed": [
+    {
+      "name": "Premium Transmission (OEM)",
+      "email": "sales.enquiry@premium-transmission.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0fe0c947d2002a",
+      "messageId": "1a0fe0c947d2002a",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Santram Engineers",
+      "email": "sales@santramengineers.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0fe0c922033f4f",
+      "messageId": "1a0fe0c922033f4f",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Planical Engineers",
+      "email": "info@planicalengineers.com",
+      "authorised": "Likely",
+      "threadId": "1a0fe0c90f2d6d62",
+      "messageId": "1a0fe0c90f2d6d62",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Premium Transmission (Kolkata sales)",
+      "email": "sc@premiumtransmission.com",
+      "authorised": "Likely",
+      "threadId": "1a0fe0c8efaed21c",
+      "messageId": "1a0fe0c8efaed21c",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Industrybuying",
+      "email": "sales@industrybuying.com",
+      "authorised": "Unverified (marketplace)",
+      "threadId": "1a0fe0c8f96b1eab",
+      "messageId": "1a0fe0c8f96b1eab",
+      "reminderSent": false,
+      "quoteLogged": false
+    }
+  ],
+  "dealersPending": [],
+  "whatsappPending": false
+}

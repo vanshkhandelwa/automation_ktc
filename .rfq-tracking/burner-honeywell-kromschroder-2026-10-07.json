@@ -1,0 +1,59 @@
+{
+  "enquiry": "Honeywell combustion PR 1200037832,7799,7781,8094 + Kromschroder IFD258 PR 1200037854",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-07T18:55:00.000+05:30",
+  "gmailLabel": "RFQ/Sent",
+  "labelId": "Label_9",
+  "emailCount": 19,
+  "honeywellSubject": "Requirement for Honeywell burner / flame controls — PR 1200037832, 7799, 7781, 8094",
+  "kromSubject": "Requirement for Kromschroder IFD258-5/1W (P/N 84621630) — PR 1200037854",
+  "honeywellRecipients": [
+    { "name": "Futuristic Climate Controls", "email": "sales@futuristicclimatecontrols.in", "threadId": "1a1170394d464258" },
+    { "name": "Konark Equipment", "email": "sales@konarkequipment.com", "threadId": "1a117039842aa7b6" },
+    { "name": "Patson Electrical & Controls", "email": "pec@patsoncontrols.com", "threadId": "1a1170392ec1a979" },
+    { "name": "Ecotherm Energy", "email": "info@ecothermburner.com", "threadId": "1a117b72e82d02e0", "note": "response@ecothermburner.com bounced; resent to info@" },
+    { "name": "Indus Corporation", "email": "sales@indusautomation.co", "threadId": "1a11703c0d18651d" },
+    { "name": "Honeywell India", "email": "sales@honeywellindia.com", "threadId": "1a11703cc74c2d72" },
+    { "name": "Unitech Combustion", "email": "nilay_031@yahoo.com", "threadId": "1a11703c9cedf31c" },
+    { "name": "Mantech", "email": "enquiry@mantech.in", "threadId": "1a11703ea37db8ab" },
+    { "name": "Innovative Automation (IAPL)", "email": "sales@iaplindia.com", "threadId": "1a11703f5028f63c" },
+    { "name": "Saransh Combustion", "email": "info@saranshtechno.com", "threadId": "1a11703f97958ffe" },
+    { "name": "Reynold Automation", "email": "info@reynoldautomation.com", "threadId": "1a11704045f800dd" },
+    { "name": "Taiyou India", "email": "support@taiyouindia.in", "threadId": "1a11704134297b2b" }
+  ],
+  "kromRecipients": [
+    { "name": "Futuristic Climate Controls", "email": "sales@futuristicclimatecontrols.in", "threadId": "1a1170435965ec6c" },
+    { "name": "Konark Equipment", "email": "sales@konarkequipment.com", "threadId": "1a117043b49614ba" },
+    { "name": "Patson Electrical & Controls", "email": "pec@patsoncontrols.com", "threadId": "1a1170442b32b4b2" },
+    { "name": "Kromschroeder India Bangalore", "email": "kromschroeder@airtelbroadband.in", "threadId": "1a1170451abc4b4e" },
+    { "name": "Reynold Automation", "email": "info@reynoldautomation.com", "threadId": "1a117b71c820c109" },
+    { "name": "Taiyou India", "email": "support@taiyouindia.in", "threadId": "1a117b72149c5f1d" },
+    { "name": "Unitech Combustion", "email": "nilay_031@yahoo.com", "threadId": "1a117b728b5fd56d" }
+  ],
+  "emailFailures": [
+    { "email": "response@ecothermburner.com", "threadId": "1a11703b9608a87b", "reason": "550 address not found" }
+  ],
+  "whatsappStatus": "partial",
+  "dealersWhatsApp": [
+    { "name": "Futuristic", "phone": "919723810294", "bundle": "Honeywell", "waId": "3EB027384EDB707CF2BECD" },
+    { "name": "Futuristic", "phone": "919723810294", "bundle": "Kromschroder", "waId": "3EB087ABDB2289720ADF70" }
+  ],
+  "whatsappPending": [
+    { "name": "Konark", "phone": "919825067403", "bundles": ["Honeywell", "Kromschroder"] },
+    { "name": "Patson", "phone": "919850976205", "bundles": ["Honeywell", "Kromschroder"] },
+    { "name": "Ecotherm", "phone": "919920265600", "bundles": ["Honeywell"] },
+    { "name": "Indus", "phone": "919820385765", "bundles": ["Honeywell"] },
+    { "name": "Mantech", "phone": "919818309293", "bundles": ["Honeywell"] },
+    { "name": "IAPL", "phone": "917722048700", "bundles": ["Honeywell"] },
+    { "name": "Saransh", "phone": "917796481314", "bundles": ["Honeywell"] },
+    { "name": "Taiyou", "phone": "917338855901", "bundles": ["Honeywell", "Kromschroder"] },
+    { "name": "Kromschroeder India", "phone": "919343534893", "bundles": ["Kromschroder"] }
+  ],
+  "whatsappSkipped": [
+    { "name": "Unitech Combustion", "phone": "918045800626", "reason": "not on WhatsApp" },
+    { "name": "Reynold Automation", "phone": "912652340910", "reason": "landline not on WhatsApp" },
+    { "name": "Honeywell India", "reason": "OEM desk — email only" }
+  ]
+}

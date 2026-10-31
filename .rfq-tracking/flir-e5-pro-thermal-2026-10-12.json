@@ -1,0 +1,39 @@
+{
+  "enquiry": "FLIR E5 Pro thermal imager (BOQ make FRIR)",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "qty": 1,
+  "status": "sent",
+  "sentAt": "2026-10-12T12:30:00.000+05:30",
+  "gmailLabel": "RFQ/Sent",
+  "specs": {
+    "model": "E5 Pro",
+    "irResolution": "160x120",
+    "focus": "Fixed",
+    "display": "3.5 in 640x480 colour LCD capacitive touch",
+    "flashlight": "Manual bright LED",
+    "imageAdjustment": "Auto/Manual",
+    "modes": "Thermal MSX, Thermal, PiP, Digital camera",
+    "tempRange": "-20 to 200C and 10 to 400C"
+  },
+  "sent": [
+    {"dealer": "FLIR Systems India", "email": "flirindia@flir.com.hk", "threadId": "1a12ee77f81c05e3"},
+    {"dealer": "Hi-Tech Systems & Services", "email": "flir@hitech.in", "threadId": "1a12ee813ab4ec05"},
+    {"dealer": "Tesscorn Systems", "email": "inquiry@tesscorn-thermalimaging.com", "threadId": "1a12ee785edf9686"},
+    {"dealer": "Instrusense India", "email": "info@instrusenseindia.com", "threadId": "1a12ee8154df7720"},
+    {"dealer": "Xboom", "email": "hello@xboom.in", "threadId": "1a12ee813ce0520c"},
+    {"dealer": "IMTB Engineers", "email": "sales@imtbengineers.com", "threadId": "1a12ee81b2439599"},
+    {"dealer": "PC Solutions", "email": "info@e-pspl.com", "threadId": "1a12ee79de884d0e"}
+  ],
+  "whatsapp": [
+    {"dealer": "Instrusense India", "phone": "9866953371", "id": "3EB04DE12D337D337601FE", "status": "sent"},
+    {"dealer": "IMTB Engineers", "phone": "9266153037", "id": "3EB0F0859541BE3CB13155", "status": "sent"},
+    {"dealer": "Tesscorn Systems", "phone": "7338190299", "id": "3EB00F98D250F82FA2C5D3", "status": "sent"}
+  ],
+  "whatsappFailed": [
+    {"dealer": "Xboom", "phone": "8447831821", "reason": "Not on WhatsApp (no LID)"},
+    {"dealer": "PC Solutions", "phone": "8908905252", "reason": "Not on WhatsApp (no LID)"},
+    {"dealer": "Hi-Tech Systems", "phone": "3322290045", "reason": "Not on WhatsApp (no LID)"},
+    {"dealer": "FLIR Systems India", "phone": "1145603555", "reason": "Landline — not on WhatsApp"}
+  ]
+}

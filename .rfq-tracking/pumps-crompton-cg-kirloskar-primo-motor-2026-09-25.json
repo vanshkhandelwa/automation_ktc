@@ -1,0 +1,58 @@
+{
+  "enquiry": "Pumps (Crompton/CG/Kirloskar) + Kirloskar Primo motor — separate RFQs by make",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "sentAt": "2026-09-25T08:35:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "batches": [
+    {
+      "make": "Crompton",
+      "items": [{"material": "314744", "desc": "3 HP Centrifugal Monoset Pump MIK32-27", "qty": 2}],
+      "subject": "Requirement for Crompton 3 HP Centrifugal Monoset Pump MIK32-27 — 2 nos",
+      "dealersEmailed": [
+        {"name": "Crompton OEM", "email": "consumer.support@crompton.co.in", "threadId": "1a0d7b4064e3e73e", "reminderSent": false, "quoteLogged": false},
+        {"name": "GKM Power", "email": "pkgoyal.gkmpower@gmail.com", "threadId": "1a0d7b436a6b5ae9", "reminderSent": false, "quoteLogged": false},
+        {"name": "BB Power", "email": "bbpower2012@gmail.com", "threadId": "1a0d7b40f70084a4", "reminderSent": false, "quoteLogged": false},
+        {"name": "Manjeet Traders", "email": "manjeet100cgl@gmail.com", "threadId": "1a0d7b411771b069", "reminderSent": false, "quoteLogged": false}
+      ]
+    },
+    {
+      "make": "C.G / Crompton Greaves",
+      "items": [{"material": "308741", "desc": "0.5 HP Monoblock CGDMM05MS-DS / XLSU10379", "qty": 2}],
+      "subject": "Requirement for C.G 0.5 HP Monoblock Pump CGDMM05MS-DS / XLSU10379 — 2 nos",
+      "dealersEmailed": [
+        {"name": "Crompton OEM", "email": "consumer.support@crompton.co.in", "threadId": "1a0d7b5e7b3b7f43", "reminderSent": false, "quoteLogged": false},
+        {"name": "GKM Power", "email": "pkgoyal.gkmpower@gmail.com", "threadId": "1a0d7b61dc2e2ce5", "reminderSent": false, "quoteLogged": false},
+        {"name": "BB Power", "email": "bbpower2012@gmail.com", "threadId": "1a0d7b62441abe06", "reminderSent": false, "quoteLogged": false},
+        {"name": "Manjeet Traders", "email": "manjeet100cgl@gmail.com", "threadId": "1a0d7b634ada7e4d", "reminderSent": false, "quoteLogged": false}
+      ]
+    },
+    {
+      "make": "Kirloskar Brothers (pumps)",
+      "items": [
+        {"material": "", "desc": "Kirloskar Pump SP 0H", "qty": 4},
+        {"material": "317543", "desc": "Sludge Pump 3 HP / 2.2 kW front loaded", "qty": 3}
+      ],
+      "subject": "Requirement for Kirloskar SP 0H Pump & 3 HP Sludge Pump",
+      "dealersEmailed": [
+        {"name": "KBL OEM", "email": "marketing@kbl.co.in", "threadId": "1a0d7b640f27a93a", "reminderSent": false, "quoteLogged": false},
+        {"name": "Trading Engineers", "email": "contact@tepumps.in", "threadId": "1a0d7b64807ca9c6", "reminderSent": false, "quoteLogged": false},
+        {"name": "SM Industrial", "email": "info@smindia.in", "threadId": "1a0d7b65aadc417f", "reminderSent": false, "quoteLogged": false},
+        {"name": "Zed Plus", "email": "zedplusin@gmail.com", "threadId": "1a0d7b66089f9088", "reminderSent": false, "quoteLogged": false},
+        {"name": "Manjeet Traders", "email": "manjeet100cgl@gmail.com", "threadId": "1a0d7b66e8eea7f6", "reminderSent": false, "quoteLogged": false}
+      ]
+    },
+    {
+      "make": "Kirloskar Electric Primo (motor)",
+      "items": [{"material": "317314", "desc": "3Ph Induction Motor 2.2 kW / 3 HP 1500 RPM Primo", "qty": 1}],
+      "subject": "Requirement for Kirloskar Primo 3Φ Motor 2.2 kW / 3 HP 1500 RPM — Mat. 317314 — 1 nos",
+      "dealersEmailed": [
+        {"name": "KECL Delhi", "email": "vipin.ashri@kirloskarelectric.com", "threadId": "1a0d7b490a1bced6", "reminderSent": false, "quoteLogged": false},
+        {"name": "KECL Bangalore", "email": "keshav.prasad@kirloskarelectric.com", "threadId": "1a0d7b4986d12ec5", "reminderSent": false, "quoteLogged": false},
+        {"name": "Reliable Power Products", "email": "reliablenkc@hotmail.com", "threadId": "1a0d7b4a22da82a4", "reminderSent": false, "quoteLogged": false},
+        {"name": "Alpha Engineers Jaipur", "email": "anoop_parakh@hotmail.com", "threadId": "1a0d7b4b056ef00d", "reminderSent": false, "quoteLogged": false},
+        {"name": "BB Power", "email": "bbpower2012@gmail.com", "threadId": "1a0d7b4b6e8d3fc5", "reminderSent": false, "quoteLogged": false}
+      ]
+    }
+  ]
+}

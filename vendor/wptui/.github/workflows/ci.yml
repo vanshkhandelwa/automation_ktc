@@ -1,0 +1,39 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          toolchain: 1.96.1
+          components: rustfmt
+
+      - uses: actions/setup-go@v7
+        with:
+          go-version: "stable"
+
+      - name: Install system dependencies
+        run: sudo apt-get update && sudo apt-get install -y libwayland-dev libchafa-dev libglib2.0-dev
+
+      - name: Go vet and tests (rustmeow bridge)
+        working-directory: whatsrust/lib
+        run: |
+          go vet ./...
+          go test ./...
+
+      - name: Format check
+        run: cargo fmt --check
+
+      - name: Build
+        run: cargo build --all-targets
+
+      - name: Test
+        run: cargo test -- --test-threads=1

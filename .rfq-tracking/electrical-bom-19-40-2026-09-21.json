@@ -1,0 +1,47 @@
+{
+  "enquiry": "Electrical BOM items 19-40 (clubbed A-E)",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "sentAt": "2026-09-20T19:15:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "dealersEmailed": [
+    {"group": "A", "name": "Panasonic Life Solutions", "email": "info.plsind@in.panasonic.com", "threadId": "1a0c04080a009be5", "messageId": "1a0c04080a009be5", "reminderSent": false, "quoteLogged": false},
+    {"group": "A", "name": "eNarayan Elex", "email": "sales@enarayan.com", "threadId": "1a0c04072f7d058c", "messageId": "1a0c04072f7d058c", "reminderSent": false, "quoteLogged": false},
+    {"group": "A", "name": "AVS Engineers", "email": "info@avsengineers.in", "threadId": "1a0c04081765b572", "messageId": "1a0c04081765b572", "reminderSent": false, "quoteLogged": false},
+    {"group": "A", "name": "Sitaram Electricals", "email": "sales@sitaramelectricals.com", "threadId": "1a0c040bdd59791f", "messageId": "1a0c040bdd59791f", "reminderSent": false, "quoteLogged": false},
+    {"group": "B", "name": "Innovators Electric", "email": "lightings@innovatorspune.com", "threadId": "1a0c040c05ddca48", "messageId": "1a0c040c05ddca48", "reminderSent": false, "quoteLogged": false},
+    {"group": "B", "name": "MH Electrical", "email": "sales@mhelectrical.in", "threadId": "1a0c040c72bbfd9b", "messageId": "1a0c040c72bbfd9b", "reminderSent": false, "quoteLogged": false},
+    {"group": "B", "name": "MNR Global Tech", "email": "info@mnrglobaltech.com", "threadId": "1a0c040d29251985", "messageId": "1a0c040d29251985", "reminderSent": false, "quoteLogged": false},
+    {"group": "B", "name": "Crompton OEM support", "email": "consumer.support@crompton.co.in", "threadId": "1a0c0417771d9223", "messageId": "1a0c0417771d9223", "reminderSent": false, "quoteLogged": false},
+    {"group": "C", "name": "Lokmanya Enterprises", "email": "lokmanyaentp@yahoo.com", "threadId": "1a0c0411175d0f7c", "messageId": "1a0c0411175d0f7c", "reminderSent": false, "quoteLogged": false},
+    {"group": "D", "name": "Super Cable Tray", "email": "info@supercabletray.in", "threadId": "1a0c04116fe8de97", "messageId": "1a0c04116fe8de97", "reminderSent": false, "quoteLogged": false},
+    {"group": "D", "name": "JP Electrical & Controls", "email": "sales@jpelectricalcontrols.com", "threadId": "1a0c04121a8bec6f", "messageId": "1a0c04121a8bec6f", "reminderSent": false, "quoteLogged": false},
+    {"group": "D", "name": "Shree Mahalaxmi Steel", "email": "sales@shreemahalaxmisteel.com", "threadId": "1a0c0411f7301220", "messageId": "1a0c0411f7301220", "reminderSent": false, "quoteLogged": false},
+    {"group": "E", "name": "Vashi Integrated Solutions", "email": "sales@vashiisl.com", "threadId": "1a0c041aeebd6826", "messageId": "1a0c041aeebd6826", "reminderSent": false, "quoteLogged": false},
+    {"group": "E", "name": "Debak Enterprises", "email": "info@debak.co", "threadId": "1a0c041af0c236e3", "messageId": "1a0c041af0c236e3", "reminderSent": false, "quoteLogged": false},
+    {"group": "E", "name": "PowerFactor Shop", "email": "support@powerfactorshop.com", "threadId": "1a0c041be0aaea09", "messageId": "1a0c041be0aaea09", "reminderSent": false, "quoteLogged": false},
+    {"group": "E", "name": "BE Electricals", "email": "sales@beelectricals.com", "threadId": "1a0c041bf1d8fc53", "messageId": "1a0c041bf1d8fc53", "reminderSent": false, "quoteLogged": false}
+  ],
+  "whatsappSentAt": "2026-09-20T19:45:00.000Z",
+  "dealersWhatsApp": [
+    {"group": "A", "name": "Panasonic Life Solutions", "phone": "917400148239", "waId": "3EB0751C81584FB9D24ED3"},
+    {"group": "A", "name": "eNarayan Elex", "phone": "919912343384", "waId": "3EB0CBE0624961181DAA72"},
+    {"group": "A", "name": "Sitaram Electricals", "phone": "918767172620", "waId": "3EB044D6179BB69EEBFAAB"},
+    {"group": "B", "name": "Innovators Electric", "phone": "919209302820", "waId": "3EB0CB924668723F247C27"},
+    {"group": "B", "name": "MH Electrical", "phone": "919473433011", "waId": "3EB018F685D8444180C2C9"},
+    {"group": "B", "name": "MNR Global Tech", "phone": "919866099133", "waId": "3EB05FA62A34C41F549F30"},
+    {"group": "C", "name": "Lokmanya Enterprises", "phone": "919422747681", "waId": "3EB0F02000D29C80816363"},
+    {"group": "C", "name": "VKA Electricals Delhi (WA only)", "phone": "919212090182", "waId": "3EB05AACE425D40D70F175"},
+    {"group": "D", "name": "Super Cable Tray", "phone": "919810113520", "waId": "3EB02C979B01D69E702F8B"},
+    {"group": "D", "name": "JP Electrical & Controls", "phone": "917836870201", "waId": "3EB0010F3AAA203731412A"},
+    {"group": "D", "name": "Shree Mahalaxmi Steel", "phone": "919810466777", "waId": "3EB0FB26675AF6797CB567"},
+    {"group": "E", "name": "Vashi Integrated Solutions", "phone": "918097433790", "waId": "3EB0575148B3839467C471"},
+    {"group": "E", "name": "Debak Enterprises", "phone": "919599384824", "waId": "3EB0643E44FCC2CB9B4382"},
+    {"group": "E", "name": "PowerFactor Shop", "phone": "919717005541", "waId": "3EB0261933CEF4B7300DF3"},
+    {"group": "E", "name": "BE Electricals", "phone": "919810830458", "waId": "3EB04A1B4099D2B34F3819"}
+  ],
+  "whatsappSkipped": [
+    {"name": "Crompton OEM", "phone": "919228880505", "reason": "not on WhatsApp"},
+    {"name": "AVS Engineers", "phone": "011-42546653", "reason": "landline only"}
+  ]
+}

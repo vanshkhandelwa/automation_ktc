@@ -1,0 +1,98 @@
+{
+  "enquiry": "ELECTRONIC WEIGHING SCALE CAP- 30KG- 5GM, Qty 20 PC",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "parsed": {
+    "item": "Electronic Weighing Scale",
+    "capacity": "30 kg",
+    "accuracy": "5 g",
+    "quantity": 20,
+    "unit": "PC",
+    "brand": null
+  },
+  "status": "sent",
+  "sent_at": "2026-09-29T14:14:00+05:30",
+  "reminder_sent": false,
+  "dealers_sent": [
+    {
+      "name": "Digitone / Digita Computer Service",
+      "email": "shiv.digita@yahoo.com",
+      "messageId": "1a0ec571710c3893",
+      "threadId": "1a0ec571710c3893"
+    },
+    {
+      "name": "Apolo Scale Industries",
+      "email": "apoloscale@gmail.com",
+      "messageId": "1a0ec57ac85e41ce",
+      "threadId": "1a0ec57ac85e41ce"
+    },
+    {
+      "name": "Contech Instruments Ltd",
+      "email": "sales@contechindia.in",
+      "messageId": "1a0ec572052c2f84",
+      "threadId": "1a0ec572052c2f84"
+    },
+    {
+      "name": "Sansui Electronics Pvt Ltd",
+      "email": "sales@sansui.co.in",
+      "messageId": "1a0ec5724a93e464",
+      "threadId": "1a0ec5724a93e464"
+    },
+    {
+      "name": "E.G. Kantawalla (Eagle)",
+      "email": "mt1@egkantawalla.com",
+      "messageId": "1a0ec5726aed1536",
+      "threadId": "1a0ec5726aed1536"
+    },
+    {
+      "name": "Essae Teraoka Pvt Ltd",
+      "email": "info@essae.com",
+      "messageId": "1a0ec572fa824be5",
+      "threadId": "1a0ec572fa824be5"
+    },
+    {
+      "name": "iScale India (Baijnath Premnath)",
+      "email": "info@iscaleindia.com",
+      "messageId": "1a0ec57370526d9d",
+      "threadId": "1a0ec57370526d9d"
+    }
+  ],
+  "whatsappSentAt": "2026-09-29T14:45:00+05:30",
+  "dealersWhatsApp": [
+    {
+      "name": "Digitone / Digita Computer Service",
+      "phone": "919888882992",
+      "waId": "3EB033121D1BC40E2F8CD6"
+    },
+    {
+      "name": "Apolo Scale Industries",
+      "phone": "916397434306",
+      "waId": "3EB0911ED0FEF8F0CE53C7"
+    },
+    {
+      "name": "Contech Instruments Ltd",
+      "phone": "919323995730",
+      "waId": "3EB0C12723EA34EE201CF1"
+    },
+    {
+      "name": "Sansui Electronics Pvt Ltd",
+      "phone": "919823888888",
+      "waId": "3EB0B653B399EA267A1318"
+    },
+    {
+      "name": "E.G. Kantawalla (Eagle)",
+      "phone": "919511962468",
+      "waId": "3EB02C099BEB32AC1CAE2D"
+    },
+    {
+      "name": "Essae Teraoka Pvt Ltd",
+      "phone": "917848812346",
+      "waId": "3EB0FEF84293B294584666"
+    },
+    {
+      "name": "iScale India",
+      "phone": "919044895141",
+      "waId": "3EB031678E6C41FD975E68"
+    }
+  ]
+}

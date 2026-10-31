@@ -1,0 +1,64 @@
+{
+  "enquiry": "Elmex KUT DIN terminal blocks + Comet CBW brass cable glands",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "prRefs": ["1200038320", "1200038357"],
+  "status": "active",
+  "updatedAt": "2026-10-10T08:35:00.000Z",
+  "items": {
+    "elmex": [
+      {"part": "KUT10N", "qty": 25},
+      {"part": "KUT2.5N", "qty": 50},
+      {"part": "KUT4N", "qty": 50},
+      {"part": "KUT6N", "qty": 25}
+    ],
+    "comet_cbw": [
+      {"part": "CBW01SS", "qty": 25},
+      {"part": "CBW01S", "qty": 50},
+      {"part": "CBW01", "qty": 30},
+      {"part": "CBW03", "qty": 30},
+      {"part": "CBW04", "qty": 30},
+      {"part": "CBW05", "qty": 20},
+      {"part": "CBW06", "qty": 10},
+      {"part": "CBW07", "qty": 10},
+      {"part": "CBW08", "qty": 8},
+      {"part": "CBW010", "qty": 3}
+    ]
+  },
+  "remindersSentAt": "2026-10-10T08:30:00.000Z",
+  "reminderThreads": [
+    "1a106ec4f8a5e68d",
+    "1a106f3ba7d0dbeb",
+    "1a106ecb91d50ae3",
+    "1a106ec60b8632e7",
+    "1a106ec6e05bf3b1",
+    "1a106ecc04ab985d",
+    "1a106f3cb5715c4a",
+    "1a106f3d6f605f0d"
+  ],
+  "newDealerThreads": [
+    {"dealer": "Surya Electricals Jaipur", "email": "surya.electric@yahoo.co.in", "threadId": "1a124f08801cbb6e"},
+    {"dealer": "M.J. Traders Mumbai", "email": "gaurang.mjt@gmail.com", "threadId": "1a124f086096d092"},
+    {"dealer": "Mahendra Electricals Vadodara", "email": "sales@mahendraelectricals.com", "threadId": "1a124f08d2e84112"},
+    {"dealer": "Shree Enterprises Bhilai", "email": "shreeent2001@sify.com", "threadId": "1a124f0984cb1b66"}
+  ],
+  "ssFollowUpThread": "1a10799d23e37330",
+  "whatsapp": [
+    {"name": "Surya Electricals", "phone": "9829050499", "id": "3EB0F93C8CD84EA1181614"},
+    {"name": "Mahendra Electricals", "phone": "9998072172", "id": "3EB0127D52D37549A3C284"},
+    {"name": "M.J. Traders", "phone": "9769249990", "id": "3EB099370BF8CB25D92C5E"},
+    {"name": "SS Electronics", "phone": "9818665739", "id": "3EB0A8414A52C2BA8ECFE7"},
+    {"name": "SKE India", "phone": "9221745333", "id": "3EB04042811C4753A0859E"},
+    {"name": "Anik Engineers", "phone": "9925039274", "id": "3EB04023B9AB8F29EB3E38"},
+    {"name": "Electromech BSP", "phone": "9425219183", "id": "3EB031826CE5E95A4AFA73"},
+    {"name": "Shree Enterprises Bhilai", "phone": "8817432100", "id": "3EB0ECFCE1C589D32D065A"}
+  ],
+  "whatsappEmailOnly": [
+    "marketing@elmex.net",
+    "delhi@elmex.net",
+    "aelectricals@yahoo.com",
+    "durgabhai@gmail.com",
+    "info@jsrgroup.in",
+    "comet@cometgland.com"
+  ]
+}

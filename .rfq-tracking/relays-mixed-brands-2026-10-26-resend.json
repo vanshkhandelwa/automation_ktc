@@ -1,0 +1,24 @@
+{
+  "enquiry": "Mixed relay & relay base BOQ — 16 lines (resend)",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-26T22:10:00.000+05:30",
+  "gmailLabel": "RFQ/Sent",
+  "labelId": "Label_9",
+  "emailCount": 8,
+  "note": "Follow-up resend of same BOQ as 2026-10-21 batch",
+  "pendingLines": [
+    { "line": 1, "part": "RELAY 53 201 101", "make": "WEHRLE", "qty": 2, "note": "No verified public India dealer email; not emailed" }
+  ],
+  "recipients": [
+    { "name": "Finder India", "email": "finder.in@findernet.com", "threadId": "1a17913778fe74ac", "items": "Finder relays/bases lines 3,5,8,13,15,16" },
+    { "name": "O/E/N India Delhi", "email": "oendelhi@oenindia.com", "threadId": "1a1791376493ab86", "items": "58-12-2C line 2" },
+    { "name": "Salzer Electronics", "email": "sales@salzergroup.com", "threadId": "1a1791378c78137c", "items": "MSP2P24A, MSP2P240A lines 10-11" },
+    { "name": "EAPL", "email": "info@eaplindiamail.com", "threadId": "1a17913fbcc03f7d", "items": "PMD-03 line 12" },
+    { "name": "HELLA India IAM", "email": "CareIndia.IAM@forvia.com", "threadId": "1a179139a1848004", "items": "4JZ 177 846-00 line 4" },
+    { "name": "Shivam Electricals", "email": "info@shivamelectricals.net.in", "threadId": "1a17913a31935f38", "items": "3TK2825-1BB40, LZS:PT5A5L24 lines 6-7" },
+    { "name": "AES India", "email": "sales@aes-india.co.in", "threadId": "1a17913a5f5595d4", "items": "Durite 0-727-24 line 9" },
+    { "name": "PLA Components", "email": "sales@plarelays.com", "threadId": "1a17913ac6995bcb", "items": "PMC-2C relay base line 14" }
+  ]
+}

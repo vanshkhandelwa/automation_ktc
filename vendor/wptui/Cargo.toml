@@ -1,0 +1,40 @@
+[package]
+name = "wp-tui"
+version = "0.2.1"
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/Andiveli/wptui"
+description = "Experimental keyboard-driven WhatsApp client for the terminal"
+
+[dependencies]
+notify-rust = "4"
+log = "0.4"
+whatsrust = { path = "whatsrust", version = "0.1.1" }
+clap = { version = "4.5", features = ["derive"] }
+flate2 = "1"
+semver = "1"
+serde = { version = "1", features = ["derive"] }
+sha2 = "0.10"
+tar = "0.4"
+textwrap = "0.16.2"
+unicode-segmentation = "1.12"
+unicode-bidi = "0.3.18"
+chrono = "0.4.43"
+image = "0.25.9"
+rusqlite = { version = "0.40.1", features = ["bundled"] }
+ratatui = "0.30.0"
+ratatui-image = "=11.0.6"
+strum = { version = "0.28", features = ["derive"] }
+ratatui-textarea = "0.9.1"
+tui-logger = "0.18.1"
+qr2term = "0.3.3"
+rfd = "0.17.2"
+open = "5.3.3"
+tempfile = "3.26.0"
+directories = "6.0.0"
+arboard = { version = "3.6.1", features = ["wayland-data-control"] }
+libc = "0.2"
+ureq = { version = "3", features = ["json"] }
+edit = "0.1.5"
+lofty = "0.25"
+# simple_logger = { version = "5.2.0", default-features = false, features = ["stderr"] }

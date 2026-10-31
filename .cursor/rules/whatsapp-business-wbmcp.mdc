@@ -1,0 +1,16 @@
+---
+description: Personal WhatsApp via whatsmeow MCP (local daemon)
+alwaysApply: true
+---
+
+# WhatsApp (whatsmeow) — personal linked device
+
+Use the local WhatsApp MCP (`whatsapp` in Cursor MCP settings) backed by Sealjay/mcp-whatsapp + whatsmeow when the owner asks to send WhatsApp.
+
+- Daemon: `http://127.0.0.1:8765/mcp` — keep `~/whatsapp-mcp/mcp-whatsapp` `whatsapp-mcp serve` running
+- Pair / re-pair: open http://127.0.0.1:8765/pair and scan QR (WhatsApp → Linked Devices)
+- Restart helper: `~/whatsapp-mcp/start-whatsapp-mcp.sh`
+- Still wait for **explicit owner approval** before any WhatsApp send (same as Gmail RFQs)
+- One recipient per message; log sends in Slack `#ktc` (C0C2ZH4PZ1U) when used for RFQs
+- This is unofficial; prefer Gmail when a public email exists
+- Do not use Meta WBMCP unless the owner asks to switch back

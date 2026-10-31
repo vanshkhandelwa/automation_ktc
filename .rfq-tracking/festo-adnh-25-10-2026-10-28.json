@@ -1,0 +1,19 @@
+{
+  "enquiry": "FESTO high-force cylinder ADNH-25-10 — 2 Pcs, max 10 bar",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-28T20:00:00.000+05:30",
+  "gmailLabel": "RFQ/Sent",
+  "labelId": "Label_9",
+  "emailCount": 6,
+  "orderCodeNote": "RFQ asks supplier to confirm ADNH-25-10-1-P-A-2N vs ADNH-25-10-I-P-A-2N",
+  "recipients": [
+    { "name": "ECS Corporation", "email": "sales@ecscorporation.in", "threadId": "1a182ea32ed70d45" },
+    { "name": "Fidus India", "email": "info@fidusindia.com", "threadId": "1a182ea3881bdd51" },
+    { "name": "Ahuja Group", "email": "projects@ahujagroup.in", "threadId": "1a182ea592aa7df5" },
+    { "name": "Durga Hardware & Electricals", "email": "sales@dheglobal.in", "threadId": "1a182ea587093160" },
+    { "name": "Festo India", "email": "sales.in@festo.com", "threadId": "1a182ea5bd9c68b7" },
+    { "name": "Prime International", "email": "info@primeintl.in", "threadId": "1a182ea619f0eff9" }
+  ]
+}

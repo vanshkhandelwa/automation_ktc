@@ -1,0 +1,34 @@
+{
+  "enquiry": "Veljan double vane pumps VT6CB-006-B03 (2 PC) and VT6CB-005-B05 (2 PC)",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-05T05:35:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "labelId": "Label_9",
+  "emailCount": 10,
+  "subject": "Requirement for Veljan VT6CB-006-B03 and VT6CB-005-B05 double vane pumps — qty 2 each",
+  "recipients": [
+    { "name": "Veljan OEM domestic", "email": "domestic@veljan.in", "threadId": "1a10a89922dce3f8" },
+    { "name": "Veljan Patancheru", "email": "dhilptc@veljan.in", "threadId": "1a10a8995209a7ea" },
+    { "name": "Veljan export", "email": "export@veljan.in", "threadId": "1a10a8994bb26a59" },
+    { "name": "Veljan Bangalore", "email": "salesmgr_vhlsou@veljan.in", "threadId": "1a10a898efba9b9d" },
+    { "name": "GMK Hydraulics", "email": "gmkhydro@gmail.com", "threadId": "1a10a899a59914df" },
+    { "name": "Hindustan H&P", "email": "hhp@hindustanhydraulic.in", "threadId": "1a10a89c0f10a3d4" },
+    { "name": "Rishi Hydraulics", "email": "sales@rishihydraulics.com", "threadId": "1a10a89c122ec250" },
+    { "name": "Advance Hydraulic Works", "email": "advancehydraulicwork@gmail.com", "threadId": "1a10a89c479b896e" },
+    { "name": "New Perfect Hydraulics", "email": "newperfect_hydraulics@gmail.com", "threadId": "1a10a89cb92460a4" },
+    { "name": "Indotech Hydraulics", "email": "info@indotechhydraulics.com", "threadId": "1a10a89d16ae8da4" }
+  ],
+  "whatsappSentAt": "2026-10-05T05:45:00.000Z",
+  "dealersWhatsApp": [
+    { "name": "GMK Hydraulics", "phone": "919843150012", "waId": "3EB0370C4731C75E795F6D" },
+    { "name": "Hindustan H&P", "phone": "919840921885", "waId": "3EB016622201796C35BF2F" },
+    { "name": "Rishi Hydraulics", "phone": "919999016129", "waId": "3EB0A79A46CEC4368320D3" },
+    { "name": "New Perfect / Indotech", "phone": "919891230786", "waId": "3EB04E986F4AEE3ADEF90B", "note": "single WA; both emailed separately" },
+    { "name": "Veljan Bangalore", "phone": "919353018991", "waId": "3EB009DA980B6122CDCC40" }
+  ],
+  "whatsappSkipped": [
+    { "name": "Advance Hydraulic Works", "phone": "8042756439", "reason": "not on WhatsApp" }
+  ]
+}

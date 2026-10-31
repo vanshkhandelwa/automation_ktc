@@ -1,0 +1,168 @@
+{
+  "enquiry": "26K23012A: SIRCO 3X125A EXT. KIT B3 — Make Socomec — Qty 2 PC",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "quantity": 2,
+  "status": "sent",
+  "sentAt": "2026-10-01T07:41:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "labelStatus": "applied Label_9 to all 16 threads",
+  "subject": "Requirement for Socomec SIRCO 3X125A EXT. KIT B3 (26K23012A) — qty 2",
+  "specs": {
+    "make": "Socomec",
+    "partNumber": "26K23012A",
+    "description": "SIRCO 3X125A EXT. KIT B3",
+    "poles": 3,
+    "ratingA": 125,
+    "frame": "B3",
+    "kitType": "External handle / Kit Type 2 open execution"
+  },
+  "dealersEmailed": [
+    {
+      "name": "Socomec India (OEM)",
+      "email": "info.in@socomec.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0f669f9a7f2f5c",
+      "messageId": "1a0f669f9a7f2f5c",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Micronova Impex (Jagadish)",
+      "email": "jagadish@micronovaimpex.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0f669f8460462c",
+      "messageId": "1a0f669f8460462c",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Micronova Impex",
+      "email": "info@micronovaimpex.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0f669fa267bd45",
+      "messageId": "1a0f669fa267bd45",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Eleczo",
+      "email": "sales@eleczo.com",
+      "authorised": "Likely",
+      "threadId": "1a0f66a02638c478",
+      "messageId": "1a0f66a02638c478",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Mani Sales",
+      "email": "manisales@manisales.net",
+      "authorised": "Confirmed",
+      "threadId": "1a0f66a08ba05d86",
+      "messageId": "1a0f66a08ba05d86",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "BG Electric Co",
+      "email": "bgelectric1964@gmail.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0f66a2fe790632",
+      "messageId": "1a0f66a2fe790632",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Hindusthan Electric Corporation",
+      "email": "hindcorp@gmail.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0f66a38bcaf514",
+      "messageId": "1a0f66a38bcaf514",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "J P Sales Corporation",
+      "email": "jpsc999@gmail.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0f66a4282487e9",
+      "messageId": "1a0f66a4282487e9",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "MV Electric Controls",
+      "email": "mvelectriccontrols@gmail.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0f66a534c1001f",
+      "messageId": "1a0f66a534c1001f",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Central Marketing Syndicate",
+      "email": "info@cmskochi.net",
+      "authorised": "Confirmed",
+      "threadId": "1a0f66a5b76946c6",
+      "messageId": "1a0f66a5b76946c6",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Central Trading Syndicate",
+      "email": "centraltradingsyndicate@gmail.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0f66a6828ca402",
+      "messageId": "1a0f66a6828ca402",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Vraj Link",
+      "email": "vrajlink07@gmail.com",
+      "authorised": "Likely",
+      "threadId": "1a0f66a8b8a8a13b",
+      "messageId": "1a0f66a8b8a8a13b",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Hari Om Udyog",
+      "email": "info@hariomudyog.in",
+      "authorised": "Likely",
+      "threadId": "1a0f66a982e6e7e6",
+      "messageId": "1a0f66a982e6e7e6",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "ClickFlow",
+      "email": "sales@clickflow.in",
+      "authorised": "Unverified",
+      "threadId": "1a0f66aa54ffb4a3",
+      "messageId": "1a0f66aa54ffb4a3",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Industrybuying",
+      "email": "sales@industrybuying.com",
+      "authorised": "Unverified (marketplace)",
+      "threadId": "1a0f66ab15d9c01f",
+      "messageId": "1a0f66ab15d9c01f",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Mohan Exim India",
+      "email": "vinod@mohanexim.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0f66abf2d3f550",
+      "messageId": "1a0f66abf2d3f550",
+      "reminderSent": false,
+      "quoteLogged": false
+    }
+  ],
+  "dealersPending": [],
+  "whatsappPending": false
+}

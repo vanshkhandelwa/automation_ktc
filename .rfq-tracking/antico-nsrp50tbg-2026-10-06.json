@@ -1,0 +1,17 @@
+{
+  "enquiry": "Antico pump NSRP50TBG 3 HP 2900 RPM — 3 EA",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-06T10:25:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "labelId": "Label_9",
+  "emailCount": 4,
+  "subject": "Requirement for Antico pump NSRP50TBG 3 HP 2900 RPM — qty 3",
+  "recipients": [
+    { "name": "Anticorrosive Equipment Pvt Ltd (OEM)", "email": "info@anticopumps.co.in", "threadId": "1a110bf1318aa152" },
+    { "name": "Soltech Pumps & Equipment", "email": "sales@soltechpumps.com", "threadId": "1a110bf1481aba5f" },
+    { "name": "SM Industrial Stores", "email": "info@smindia.in", "threadId": "1a110bf15210bc87" },
+    { "name": "Ample Engineering", "email": "sales@ampleengservices.com", "threadId": "1a110bf1a5bb4008" }
+  ]
+}

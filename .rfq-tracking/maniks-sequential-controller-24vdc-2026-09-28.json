@@ -1,0 +1,44 @@
+{
+  "enquiry": "Maniks Sequential Controller, input 24VDC, Output 24VDC, on time 40-400 millisecond and off time 2-60 second",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "quantity": "1 pc quoted (MOQ asked); channels not specified",
+  "sentAt": "2026-09-28T10:17:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "subject": "Requirement for Maniks Sequential Controller 24 VDC (On 40–400 ms / Off 2–60 s)",
+  "specs": {
+    "make": "Maniks",
+    "item": "Sequential Controller",
+    "input": "24 VDC",
+    "output": "24 VDC",
+    "onTime": "40-400 ms",
+    "offTime": "2-60 s"
+  },
+  "dealersEmailed": [
+    {
+      "name": "Maniks (OEM) — sales",
+      "email": "sales@maniks.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0e785ea46a3e01",
+      "messageId": "1a0e785ea46a3e01",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Maniks (OEM) — coordinator",
+      "email": "coordinator@maniks.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0e785ecf9053ca",
+      "messageId": "1a0e785ecf9053ca",
+      "reminderSent": false,
+      "quoteLogged": false
+    }
+  ],
+  "whatsappPending": [
+    {
+      "name": "Maniks OEM WhatsApp",
+      "phone": "918956968479",
+      "note": "Catalogue WhatsApp; send on request"
+    }
+  ]
+}

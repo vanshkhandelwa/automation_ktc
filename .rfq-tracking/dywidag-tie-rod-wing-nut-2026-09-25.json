@@ -1,0 +1,81 @@
+{
+  "enquiry": "DYWIDAG Steel Tie Rod 15FA0105 (1527211) qty 20 PC; Flange Wing Nut 15F2072/90 (1508680) qty 100 PC",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "items": [
+    {
+      "materialCode": "1527211",
+      "description": "STEEL TIE ROD (15FA0105)",
+      "oemArticle": "15 FA 0105",
+      "qty": 20,
+      "uom": "PC",
+      "note": "length not specified"
+    },
+    {
+      "materialCode": "1508680",
+      "description": "FLANGE WING NUT 15F2072/90",
+      "oemArticle": "15 F 2072/90",
+      "qty": 100,
+      "uom": "PC"
+    }
+  ],
+  "sentAt": "2026-09-25T08:29:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "subject": "Requirement for DYWIDAG Steel Tie Rod 15FA0105 & Flange Wing Nut 15F2072/90",
+  "dealersEmailed": [
+    {
+      "name": "DYWIDAG Bridgecon / Bridgecon India",
+      "email": "info@bridgeconindia.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0d7af4db446b1a",
+      "messageId": "1a0d7af4db446b1a",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "DYWIDAG Form Ties (OEM)",
+      "email": "schalungsanker@dywidag-systems.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0d7af4c8632d70",
+      "messageId": "1a0d7af4c8632d70",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "DYWIDAG Concrete Technologies",
+      "email": "sales.cee@dywidag.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0d7af5529bfa59",
+      "messageId": "1a0d7af5529bfa59",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Vaishnav Engineering Works",
+      "email": "vaishnav@vaishnavengineering.com",
+      "authorised": "Likely",
+      "threadId": "1a0d7af618a0809f",
+      "messageId": "1a0d7af618a0809f",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "AMCO Exports",
+      "email": "amcosales1@gmail.com",
+      "authorised": "Likely",
+      "threadId": "1a0d7af6fe0857f7",
+      "messageId": "1a0d7af6fe0857f7",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Pensla Steels",
+      "email": "info@pensla.com",
+      "authorised": "Likely",
+      "threadId": "1a0d7af7896e68e2",
+      "messageId": "1a0d7af7896e68e2",
+      "reminderSent": false,
+      "quoteLogged": false
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "enquiry": "Bajaj Indef Push Pull Trolley Indef U, Capacity 1T, FW 64-203 mm, flange thk 28 mm, qty 15 nos",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "quantity": 15,
+  "sentAt": "2026-09-25T07:54:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "subject": "Requirement for Bajaj Indef Push Pull Trolley 1T (Indef U) — 15 nos",
+  "dealersEmailed": [
+    {
+      "name": "Bajaj Indef (OEM)",
+      "email": "enquire@indef.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0d78f5c9c53b65",
+      "messageId": "1a0d78f5c9c53b65",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Material Handling Engineers (Delhi)",
+      "email": "sales@mhengineers.net",
+      "authorised": "Confirmed",
+      "threadId": "1a0d78f5fdec4adc",
+      "messageId": "1a0d78f5fdec4adc",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Mangla Hoists (Delhi)",
+      "email": "mangla@mangla.in",
+      "authorised": "Confirmed",
+      "threadId": "1a0d78f5d7e95509",
+      "messageId": "1a0d78f5d7e95509",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Mach Mill Engineers (Delhi)",
+      "email": "machmill@yahoo.co.in",
+      "authorised": "Confirmed",
+      "threadId": "1a0d78f6a42dd156",
+      "messageId": "1a0d78f6a42dd156",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Vinay Sales Corporation (Jaipur)",
+      "email": "vinaysales.nitin@gmail.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0d78f797e7baeb",
+      "messageId": "1a0d78f797e7baeb",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Alfa Marketers & Engineers (Jaipur)",
+      "email": "alfajaipur@gmail.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0d78f842dc9fe6",
+      "messageId": "1a0d78f842dc9fe6",
+      "reminderSent": false,
+      "quoteLogged": false
+    }
+  ],
+  "whatsappSentAt": "2026-09-25T08:05:00.000Z",
+  "dealersWhatsApp": [
+    {
+      "name": "Material Handling Engineers (Delhi)",
+      "phone": "919810057759",
+      "waId": "3EB09AB020CDADACA2C880",
+      "authorised": "Confirmed"
+    },
+    {
+      "name": "Mangla Hoists (Delhi)",
+      "phone": "919811079790",
+      "waId": "3EB0C12B60713AFF030346",
+      "authorised": "Confirmed"
+    },
+    {
+      "name": "Mach Mill Engineers (Delhi)",
+      "phone": "919811032580",
+      "waId": "3EB0BBADA5F0A81E836B63",
+      "authorised": "Confirmed"
+    },
+    {
+      "name": "Vinay Sales Corporation (Jaipur)",
+      "phone": "919829055956",
+      "waId": "3EB0F4CF6359B70C659BD4",
+      "authorised": "Confirmed"
+    },
+    {
+      "name": "Alfa Marketers & Engineers (Jaipur)",
+      "phone": "919829012541",
+      "waId": "3EB0243A0DCFD456DF9A5D",
+      "authorised": "Confirmed"
+    }
+  ],
+  "whatsappSkipped": [
+    {
+      "name": "Bajaj Indef (OEM)",
+      "reason": "landline only; no public mobile on WhatsApp"
+    }
+  ]
+}

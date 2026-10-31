@@ -1,0 +1,61 @@
+{
+  "enquirySource": "APV-style BOM items 19-40",
+  "delivery": "Bhiwadi, Rajasthan",
+  "company": "Krishna Trading Company",
+  "createdAt": "2026-09-21",
+  "groups": [
+    {
+      "id": "A",
+      "name": "Anchor by Panasonic — Roma switches/sockets + Anchor plug tops",
+      "note": "Roma is Anchor/Panasonic range (not Legrand). Item 26 brand not stated — included as likely Roma/modular.",
+      "items": [
+        {"no": 21, "desc": "Roma modular socket 10A 1-way", "qty": 25},
+        {"no": 22, "desc": "Roma modular socket 20A 1-way", "qty": 20},
+        {"no": 23, "desc": "Roma fan regulator", "qty": 6},
+        {"no": 24, "desc": "3-pin top 6A Anchor", "qty": 16},
+        {"no": 25, "desc": "3-pin top 16A Anchor", "qty": 16},
+        {"no": 26, "desc": "10A modular switch (brand TBD — treat as Roma/Anchor)", "qty": 90},
+        {"no": 27, "desc": "Modular switch 20A Roma code 21066", "qty": 15},
+        {"no": 40, "desc": "AC starter 25A Roma", "qty": 1}
+      ]
+    },
+    {
+      "id": "B",
+      "name": "Crompton (CG) LED outdoor lighting",
+      "items": [
+        {"no": 29, "desc": "LED street light 70W MOD-LST-70-CDL-M CG", "qty": 15},
+        {"no": 30, "desc": "LED flood light 150W CG", "qty": 4},
+        {"no": 31, "desc": "LED flood light 50W CG", "qty": 10}
+      ]
+    },
+    {
+      "id": "C",
+      "name": "Bajaj LED",
+      "items": [
+        {"no": 35, "desc": "LED light 30W with eye bolt Bajaj", "qty": 50}
+      ]
+    },
+    {
+      "id": "D",
+      "name": "GI cable tray & cover (fabricators)",
+      "items": [
+        {"no": 32, "desc": "GI cable tray & cover W100 x H50 x T2mm", "qty": 250},
+        {"no": 33, "desc": "GI cable tray & cover W50 x H50 x T2mm", "qty": 75}
+      ]
+    },
+    {
+      "id": "E",
+      "name": "General electrical (brand TBD / mixed)",
+      "items": [
+        {"no": 19, "desc": "Wood screw black 35x8 mm", "qty": 3000},
+        {"no": 20, "desc": "MCB 63A TP", "qty": 5},
+        {"no": 28, "desc": "Ceiling fan 1200mm", "qty": 2},
+        {"no": 34, "desc": "Tube light fixture", "qty": 120},
+        {"no": 36, "desc": "1PH exhaust fan 4-blade 12\"", "qty": 2},
+        {"no": 37, "desc": "6A SP MCB", "qty": 30},
+        {"no": 38, "desc": "4-module modular switch board", "qty": 22},
+        {"no": 39, "desc": "1-module modular switch board", "qty": 20}
+      ]
+    }
+  ]
+}

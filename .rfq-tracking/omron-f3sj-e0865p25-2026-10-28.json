@@ -1,0 +1,18 @@
+{
+  "enquiry": "OMRON safety light curtain F3SJ-E0865P25 — 4 sets (Tx+Rx), Type 4 ESPE PNP",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-28T20:00:00.000+05:30",
+  "gmailLabel": "RFQ/Sent",
+  "labelId": "Label_9",
+  "emailCount": 6,
+  "recipients": [
+    { "name": "Fidus India", "email": "info@fidusindia.com", "threadId": "1a182e9ffedc556b" },
+    { "name": "Balaji Switchgears", "email": "mktgindia@balajiswitchgears.com", "threadId": "1a182ea0311d5790" },
+    { "name": "Ash & Alain India", "email": "sales@ashalain.com", "threadId": "1a182ea0e622df87" },
+    { "name": "Intech Systems Chennai", "email": "info@intechchennai.com", "threadId": "1a182ea105f4260e" },
+    { "name": "Shree Vijay Vargiya", "email": "sales2@shreevijayvargiya.com", "threadId": "1a182ea2ece2f7de" },
+    { "name": "Omron Automation AP", "email": "newdelhi_enquiry@ap.omron.com", "threadId": "1a182ea37b30ff44" }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "enquiry": "Multi-club BOM: ESAB FT/NM250, Janatics pneumatics, KTR Rotex 28, hydraulic adapters + Decycle, 2\" LPG hose, hardware",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "sentAt": "2026-09-25T10:46:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "clubs": {
+    "A_ESAB": {
+      "subject": "Requirement for ESAB FT G3/8, NM250 and cutting nozzle",
+      "items": [
+        {"item": "ESAB FT G3/8 LH (Fuel Gas)", "code": "1300100370", "qty": 8},
+        {"item": "ESAB FT G3/8 RH (Oxygen)", "code": "1300100376", "qty": 8},
+        {"item": "Cutting nozzle 3/64 inch", "qty": 10},
+        {"item": "ESAB NM250 without nozzle", "code": "4310106041", "qty": 1}
+      ],
+      "dealersEmailed": [
+        {"name": "ESAB India (equipment)", "email": "equipment.sales@esab.co.in", "authorised": "Confirmed", "threadId": "1a0d82d10410db89", "messageId": "1a0d82d10410db89", "reminderSent": false, "quoteLogged": false},
+        {"name": "ESAB India (info)", "email": "info@esab.co.in", "authorised": "Confirmed", "threadId": "1a0d82d1a218031a", "messageId": "1a0d82d1a218031a", "reminderSent": false, "quoteLogged": false},
+        {"name": "ESAB India (wcmkt)", "email": "wcmkt@esab.co.in", "authorised": "Confirmed", "threadId": "1a0d82d259c3ea9a", "messageId": "1a0d82d259c3ea9a", "reminderSent": false, "quoteLogged": false},
+        {"name": "Arc Welding Co.", "email": "arcweldingcompany@gmail.com", "authorised": "Confirmed", "threadId": "1a0d82d3108a631c", "messageId": "1a0d82d3108a631c", "reminderSent": false, "quoteLogged": false},
+        {"name": "Universal Enterprises", "email": "hyd@universalmincon.com", "authorised": "Confirmed", "threadId": "1a0d82d3da71162a", "messageId": "1a0d82d3da71162a", "reminderSent": false, "quoteLogged": false},
+        {"name": "Advance Tecmate", "email": "info@advancetecmate.com", "authorised": "Likely", "threadId": "1a0d82d4ac709358", "messageId": "1a0d82d4ac709358", "reminderSent": false, "quoteLogged": false}
+      ]
+    },
+    "B_Janatics": {
+      "subject": "Requirement for Janatics PU tube, fittings and pneumatic valves",
+      "items": [
+        {"item": "PU Tube 10 mm OD Janatics", "qty": 150},
+        {"item": "PU Tube 12 mm OD Janatics", "qty": 100},
+        {"item": "PU Coil Tube 10 mm OD x 6 mtr", "qty": 8},
+        {"item": "PU Coil Tube 10 mm OD x 3 mtr", "qty": 8},
+        {"item": "Push-in connector 12 mm", "qty": 40},
+        {"item": "Push-in connector 8 mm", "qty": 40},
+        {"item": "Pneumatic male connector 1/4 x 10 mm", "qty": 80},
+        {"item": "Flow connector 10 x 1/4", "qty": 20},
+        {"item": "Male elbow connector 8 x 1/4", "qty": 20},
+        {"item": "Flow control valve 1/2", "qty": 10},
+        {"item": "Hand lever directional valve 1/4 x 5/3", "qty": 6}
+      ],
+      "dealersEmailed": [
+        {"name": "Janatics Delhi", "email": "janatics_del@janatics.co.in", "authorised": "Confirmed", "threadId": "1a0d82d737ccdc2c", "messageId": "1a0d82d737ccdc2c", "reminderSent": false, "quoteLogged": false},
+        {"name": "Janatics HO", "email": "janatics_ho@janatics.co.in", "authorised": "Confirmed", "threadId": "1a0d83391a5a0fac", "messageId": "1a0d83391a5a0fac", "reminderSent": false, "quoteLogged": false},
+        {"name": "Janatics Mumbai", "email": "janatics_mum@janatics.co.in", "authorised": "Confirmed", "threadId": "1a0d82d90de279b0", "messageId": "1a0d82d90de279b0", "reminderSent": false, "quoteLogged": false},
+        {"name": "Janatics Pune", "email": "janatics_pne@janatics.co.in", "authorised": "Confirmed", "threadId": "1a0d82d9c0cb8ccf", "messageId": "1a0d82d9c0cb8ccf", "reminderSent": false, "quoteLogged": false},
+        {"name": "Maniar Enterprise", "email": "umarmaniar7@gmail.com", "authorised": "Likely", "threadId": "1a0d82dae9b7dc71", "messageId": "1a0d82dae9b7dc71", "reminderSent": false, "quoteLogged": false},
+        {"name": "VS Enterprises", "email": "vsent7@gmail.com", "authorised": "Likely", "threadId": "1a0d82dc08b5a1b5", "messageId": "1a0d82dc08b5a1b5", "reminderSent": false, "quoteLogged": false}
+      ]
+    },
+    "C_KTR": {
+      "subject": "Requirement for KTR Rotex coupling with spider size 28",
+      "items": [{"item": "Rotex coupling with spider KTR 28", "qty": 6}],
+      "dealersEmailed": [
+        {"name": "KTR Couplings India", "email": "ktr-in@ktr.com", "authorised": "Confirmed", "threadId": "1a0d8343ffcb984c", "messageId": "1a0d8343ffcb984c", "reminderSent": false, "quoteLogged": false},
+        {"name": "S-Tech Sales", "email": "info@stechsales.com", "authorised": "Confirmed", "threadId": "1a0d82dfa71f8e51", "messageId": "1a0d82dfa71f8e51", "reminderSent": false, "quoteLogged": false},
+        {"name": "DNA Power Transmission", "email": "dippak@dnapower.co.in", "authorised": "Likely", "threadId": "1a0d82e033888a1a", "messageId": "1a0d82e033888a1a", "reminderSent": false, "quoteLogged": false}
+      ]
+    },
+    "D_Hydraulic": {
+      "subject": "Requirement for hydraulic adapters and Decycle 2T/3T",
+      "items": [
+        {"item": "Hydraulic adapter 1-1/4 x 1-1/4", "qty": 8},
+        {"item": "Hydraulic adapter 1-1/4 x 1-1/2", "qty": 8},
+        {"item": "Decycle 3 ton", "qty": 4, "note": "brand unverified"},
+        {"item": "Decycle 2 ton", "qty": 4, "note": "brand unverified"}
+      ],
+      "dealersEmailed": [
+        {"name": "R.K. Hydraulics", "email": "info@rkhydraulics.net", "authorised": "Likely", "threadId": "1a0d82e141a6b500", "messageId": "1a0d82e141a6b500", "reminderSent": false, "quoteLogged": false},
+        {"name": "Maniar Enterprise", "email": "umarmaniar7@gmail.com", "authorised": "Likely", "threadId": "1a0d834b35f77fca", "messageId": "1a0d834b35f77fca", "reminderSent": false, "quoteLogged": false},
+        {"name": "VS Enterprises", "email": "vsent7@gmail.com", "authorised": "Likely", "threadId": "1a0d837706df193d", "messageId": "1a0d837706df193d", "reminderSent": false, "quoteLogged": false}
+      ]
+    },
+    "E_LPG": {
+      "subject": "Requirement for 2 inch LPG unloading hose both-side flange",
+      "items": [{"item": "2 inch LPG unloading hose both-side flange", "qty": 2}],
+      "dealersEmailed": [
+        {"name": "Sharda Industrial (sales)", "email": "sales@composite-hose.com", "authorised": "Confirmed", "threadId": "1a0d833d3b056f36", "messageId": "1a0d833d3b056f36", "reminderSent": false, "quoteLogged": false},
+        {"name": "Sharda Industrial (info)", "email": "info@composite-hose.com", "authorised": "Confirmed", "threadId": "1a0d833da69d7860", "messageId": "1a0d833da69d7860", "reminderSent": false, "quoteLogged": false},
+        {"name": "Shanti Hose Industries", "email": "sales@shantihoses.com", "authorised": "Product-listed", "threadId": "1a0d833e99618e96", "messageId": "1a0d833e99618e96", "reminderSent": false, "quoteLogged": false},
+        {"name": "Woodfield Systems India", "email": "sales@woodfieldsystems.com", "authorised": "Likely", "threadId": "1a0d834db6ca2aa7", "messageId": "1a0d834db6ca2aa7", "reminderSent": false, "quoteLogged": false}
+      ]
+    },
+    "F_Hardware": {
+      "subject": "Requirement for jubilee clamp, banjo bolt, basin waste pipe and padlock",
+      "items": [
+        {"item": "Basin waste pipe", "qty": 4},
+        {"item": "Banjo bolt 1/2 x 20 mm", "qty": 8},
+        {"item": "Jubilee clamp 1 inch SS", "qty": 40},
+        {"item": "Pad lock", "qty": 12}
+      ],
+      "dealersEmailed": [
+        {"name": "Perfect Engineering Corporation", "email": "perfectengineeringcorporation@gmail.com", "authorised": "Product-listed", "threadId": "1a0d834ed5f437ea", "messageId": "1a0d834ed5f437ea", "reminderSent": false, "quoteLogged": false},
+        {"name": "Maniar Enterprise", "email": "umarmaniar7@gmail.com", "authorised": "Likely", "threadId": "1a0d8379b76ae201", "messageId": "1a0d8379b76ae201", "reminderSent": false, "quoteLogged": false},
+        {"name": "VS Enterprises", "email": "vsent7@gmail.com", "authorised": "Likely", "threadId": "1a0d837c997236df", "messageId": "1a0d837c997236df", "reminderSent": false, "quoteLogged": false}
+      ]
+    }
+  },
+  "totalEmails": 25,
+  "whatsappSentAt": "2026-09-25T11:15:00.000Z",
+  "dealersWhatsApp": [
+    {"name": "Arc Welding Co.", "phone": "919811110477", "waId": "3EB024374F4E92F70D464E", "clubs": ["A_ESAB"], "authorised": "Confirmed"},
+    {"name": "Advance Tecmate", "phone": "917728823872", "waId": "3EB053B4602D0578D08854", "clubs": ["A_ESAB"], "authorised": "Likely"},
+    {"name": "Universal Enterprises", "phone": "919100070931", "waId": "3EB04A5291DB35F20EDC15", "clubs": ["A_ESAB"], "authorised": "Confirmed"},
+    {"name": "Maniar Enterprise", "phone": "919173123355", "waId": "3EB0D419B5E8073FAC3C97", "clubs": ["B_Janatics", "D_Hydraulic", "F_Hardware"], "authorised": "Likely"},
+    {"name": "VS Enterprises", "phone": "919871118371", "waId": "3EB0D83E56FCBB5AB86216", "clubs": ["B_Janatics", "D_Hydraulic", "F_Hardware"], "authorised": "Likely"},
+    {"name": "DNA Power Transmission", "phone": "919891065234", "waId": "3EB0556D46826B83188BB4", "clubs": ["C_KTR"], "authorised": "Likely"},
+    {"name": "S-Tech Sales", "phone": "918208269162", "waId": "3EB03730264CFC4051BB73", "clubs": ["C_KTR"], "authorised": "Confirmed"},
+    {"name": "R.K. Hydraulics", "phone": "919999193070", "waId": "3EB025FDEE08B85A4481BA", "clubs": ["D_Hydraulic"], "authorised": "Likely"},
+    {"name": "Sharda Industrial", "phone": "918591070344", "waId": "3EB0F79E006A18E99C0DFA", "clubs": ["E_LPG"], "authorised": "Confirmed"},
+    {"name": "Shanti Hose Industries", "phone": "919870028318", "waId": "3EB0009091E7CFDF78B297", "clubs": ["E_LPG"], "authorised": "Product-listed"}
+  ],
+  "whatsappSkipped": [
+    {"name": "ESAB / Janatics / KTR OEM", "reason": "email-only / no public WhatsApp mobile"},
+    {"name": "Woodfield Systems", "reason": "landline only"},
+    {"name": "Perfect Engineering Corporation", "reason": "no clear public mobile"},
+    {"name": "Techmo India", "reason": "listed number not on WhatsApp"}
+  ],
+  "notes": "Decycle brand unverified in Club D; suppliers asked to clarify. Skipped duplicate alt emails (maniar yahoo, DNA amit). Shri Narayan Machinery not sent (self-declared not authorised)."
+}

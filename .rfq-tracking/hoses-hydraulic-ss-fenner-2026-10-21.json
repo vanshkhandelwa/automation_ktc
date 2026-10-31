@@ -1,0 +1,24 @@
+{
+  "enquiry": "Hose BOQ — hydraulic, Parker, Fenner IS 446, SS bellow, IPV flexible (19 lines)",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-21T18:05:00.000+05:30",
+  "gmailLabel": "RFQ/Sent",
+  "labelId": "Label_9",
+  "emailCount": 12,
+  "recipients": [
+    { "name": "Rubber Hose India LLP", "email": "info@rubberhoseindia.com", "threadId": "1a15f9f951b07e4f", "category": "hydraulic-air" },
+    { "name": "Gurflex Hose & Hydraulic LLP", "email": "info@gurflex.com", "threadId": "1a15f9f9f3106788", "category": "hydraulic-air" },
+    { "name": "Fluidline Hydro", "email": "info@fluidlinehydro.in", "threadId": "1a15f9fb42cfec56", "category": "hydraulic-air" },
+    { "name": "Kuber Rubber Industries", "email": "kuberinds@yahoo.co.in", "threadId": "1a15f9fc1ebbecf6", "category": "hydraulic-r2" },
+    { "name": "SD Global Engineering", "email": "info@sdglobal.co.in", "threadId": "1a15f9fe29bb9719", "category": "parker" },
+    { "name": "Dayal Sons", "email": "dayalsons@gmail.com", "threadId": "1a15f9fe37ffae1d", "category": "parker" },
+    { "name": "Vision Associates", "email": "associates.vision@yahoo.co.in", "threadId": "1a15f9ff108208ef", "category": "fenner" },
+    { "name": "Industrial Trade Corporation", "email": "info@industrialtradecorp.com", "threadId": "1a15f9ffb03b21a4", "category": "fenner" },
+    { "name": "AMPRI Group", "email": "amit@amprigroup.in", "threadId": "1a15fa01f5a3ec0c", "category": "fenner" },
+    { "name": "Vardhman Flexible Hoses", "email": "sales@flexiblemetals.in", "threadId": "1a15fa02906757d8", "category": "ss-bellow-flex" },
+    { "name": "Metline Industries", "email": "sales@metline.in", "threadId": "1a15fa02f7ada0ff", "category": "ss-bellow" },
+    { "name": "CERA PURE", "email": "info@cerapuresteel.com", "threadId": "1a15fa030cebfe5c", "category": "ss-bellow" }
+  ]
+}

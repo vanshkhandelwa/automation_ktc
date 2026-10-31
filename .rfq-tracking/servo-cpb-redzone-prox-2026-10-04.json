@@ -1,0 +1,27 @@
+{
+  "enquiry": "Servo HLP 68/32, Morris or Elephant 0.5T CPB, red zone line beam 220VAC, M18 8mm 220VAC prox",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-04T17:50:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "emailCount": 10,
+  "clubs": {
+    "A_servo_oil": ["sivaravikumar@indianoil.in", "tservices@indianoil.co.in", "ysl.sharma123@gmail.com"],
+    "B_chain_pulley": ["info@bradys.in", "info@mazavery.com"],
+    "C_red_zone_light": ["sales@fourlifters.in", "sales.1@mhebazar.com"],
+    "D_proximity": ["india@autonics.com", "india@autonics.net.in", "applesensor@gmail.com"]
+  },
+  "threadIds": [
+    "1a10809999e84186",
+    "1a1080999beedc60",
+    "1a108099afcb8e90",
+    "1a108099dcdcad27",
+    "1a10809a8f213bc0",
+    "1a10809d3a69a9e4",
+    "1a10809dca29c781",
+    "1a10809ec114c053",
+    "1a10809f7c95079c",
+    "1a1080a035b0b94f"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "enquiry": "Steam flow meter digital RS485 3 inch, steam 13 kg/cm2 saturated @ 230C, bi-directional cumulative, qty 01",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "quantity": 1,
+  "sentAt": "2026-09-29T06:30:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "subject": "Requirement for 3 inch digital steam flow meter RS485 — bidirectional cumulative — qty 1",
+  "specs": {
+    "item": "Digital Steam Flow Meter",
+    "size": "3 inch (80 NB)",
+    "communication": "RS485",
+    "steamType": "Saturated",
+    "temperatureC": 230,
+    "pressureKgCm2": 13,
+    "biDirectionalCumulative": true
+  },
+  "dealersEmailed": [
+    {"name": "Manas Microsystems (mktg)", "email": "mktg@manasmicro.com", "authorised": "Confirmed", "threadId": "1a0ebda8f9d8e3fc", "messageId": "1a0ebda8f9d8e3fc", "reminderSent": false, "quoteLogged": false},
+    {"name": "Manas Microsystems (digimark)", "email": "digimark@manasmicro.com", "authorised": "Confirmed", "threadId": "1a0ebda90816214f", "messageId": "1a0ebda90816214f", "reminderSent": false, "quoteLogged": false},
+    {"name": "Forbes Marshall", "email": "enquiries@forbesmarshall.com", "authorised": "Confirmed", "threadId": "1a0ebdbd4d199d6d", "messageId": "1a0ebdbd4d199d6d", "reminderSent": false, "quoteLogged": false},
+    {"name": "Forbes Marshall Delhi", "email": "ccmidc@forbesmarshall.com", "authorised": "Confirmed", "threadId": "1a0ebda9b8f78760", "messageId": "1a0ebda9b8f78760", "reminderSent": false, "quoteLogged": false},
+    {"name": "Steam Flow Pvt Ltd", "email": "info@steamflow.in", "authorised": "Likely", "threadId": "1a0ebdaa90717270", "messageId": "1a0ebdaa90717270", "reminderSent": false, "quoteLogged": false},
+    {"name": "Pride Controls (sales)", "email": "sales@pridecontrols.com", "authorised": "Confirmed", "threadId": "1a0ebdabb6361662", "messageId": "1a0ebdabb6361662", "reminderSent": false, "quoteLogged": false},
+    {"name": "Pride Controls (enquiry)", "email": "enquiry@pridecontrols.com", "authorised": "Confirmed", "threadId": "1a0ebdaf98c462b9", "messageId": "1a0ebdaf98c462b9", "reminderSent": false, "quoteLogged": false},
+    {"name": "CBRO Instruments (info)", "email": "info@cbroindia.com", "authorised": "Product-listed", "threadId": "1a0ebdb096d6c55d", "messageId": "1a0ebdb096d6c55d", "reminderSent": false, "quoteLogged": false},
+    {"name": "CBRO Instruments (sales)", "email": "sales@cbroindia.com", "authorised": "Product-listed", "threadId": "1a0ebdb1b54e0849", "messageId": "1a0ebdb1b54e0849", "reminderSent": false, "quoteLogged": false},
+    {"name": "Star Instrument Engineers", "email": "starankleshwar@gmail.com", "authorised": "Product-listed", "threadId": "1a0ebdb26c07d95f", "messageId": "1a0ebdb26c07d95f", "reminderSent": false, "quoteLogged": false},
+    {"name": "Vision World Tech", "email": "admin@visionworldtech.com", "authorised": "Product-listed", "threadId": "1a0ebdb37fe06d16", "messageId": "1a0ebdb37fe06d16", "reminderSent": false, "quoteLogged": false},
+    {"name": "Sant Valves", "email": "info@santvalves.com", "authorised": "Product-listed", "threadId": "1a0ebdb408ee040b", "messageId": "1a0ebdb408ee040b", "reminderSent": false, "quoteLogged": false}
+  ],
+  "totalEmails": 12,
+  "whatsappSentAt": "2026-09-29T07:45:00.000Z",
+  "dealersWhatsApp": [
+    {"name": "Manas Microsystems", "phone": "917507770671", "waId": "3EB028E31C6FA2ABE87E6D", "authorised": "Confirmed"},
+    {"name": "Pride Controls", "phone": "919840079196", "waId": "3EB0B226D736180505B56E", "authorised": "Confirmed"},
+    {"name": "CBRO Instruments", "phone": "917021306718", "waId": "3EB08E668043FADCD1B574", "authorised": "Product-listed"},
+    {"name": "Star Instrument Engineers", "phone": "919426129718", "waId": "3EB07A28C5ED85B8AFD08A", "authorised": "Product-listed"},
+    {"name": "Vision World Tech", "phone": "918505000822", "waId": "3EB010F6517EE7C7B7FE69", "authorised": "Product-listed"},
+    {"name": "Sant Valves", "phone": "919780752020", "waId": "3EB0BE12B3E74E766067E8", "authorised": "Product-listed"},
+    {"name": "Steam Flow Pvt Ltd", "phone": "919820729480", "waId": "3EB0A96CA5AA2C0F4A7818", "authorised": "Likely"}
+  ],
+  "whatsappSkipped": [
+    {"name": "Forbes Marshall", "reason": "no public mobile"},
+    {"name": "Manas alt 7722034924", "reason": "not on WhatsApp"}
+  ],
+  "notes": "Asked all suppliers to confirm bi-directional + cumulative totals at 13 kg/cm2 / 230C saturated."
+}

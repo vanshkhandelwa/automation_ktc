@@ -1,0 +1,41 @@
+{
+  "enquiry": "PR 1200033065 — plant MRO / consumables (58 lines)",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-21T07:03:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "labelId": "Label_9",
+  "emailCount": 24,
+  "pendingLines": [
+    { "material": "1508112", "item": "Gear Oil 320", "qty": "500 L", "note": "No lubricant dealer with public email shortlisted" },
+    { "material": "1508474", "item": "Hydraulic Oil HLP 46", "qty": "500 L", "note": "Same" },
+    { "material": "1508278", "item": "Diesel", "qty": "500 L", "note": "Not sent — fuel vendor" }
+  ],
+  "recipients": [
+    { "name": "Maheshwari Enterprises", "email": "somanijp1@gmail.com", "threadId": "1a15d45bbc96998b", "category": "abrasives" },
+    { "name": "Hindustan Abrasives", "email": "info@hindustanabrasives.com", "threadId": "1a15d45c1d6a140b", "category": "abrasives" },
+    { "name": "ARC Welding Co", "email": "arcweldingcompany@gmail.com", "threadId": "1a15d45ca3e53dfc", "category": "welding" },
+    { "name": "MD Sales Corporation", "email": "Info@mdsalescorporation.com", "threadId": "1a15d45d1703b511", "category": "welding" },
+    { "name": "Raajratna Electrodes", "email": "sales@raajratnaelectrodes.com", "threadId": "1a15d45df607a62d", "category": "welding" },
+    { "name": "Accurate Weldarc", "email": "md@accuratearc.com", "threadId": "1a15d45e64981acf", "category": "welding" },
+    { "name": "Pidilite", "email": "csc@pidilite.com", "threadId": "1a15d45ec9ece554", "category": "pidilite" },
+    { "name": "Dr Fixit", "email": "info.drfixit@pidilite.com", "threadId": "1a15d45fba21e378", "category": "dr-fixit" },
+    { "name": "Taparia Tools", "email": "sales@tapariatools.com", "threadId": "1a15d4623a8adb3e", "category": "taparia" },
+    { "name": "Valisons & Co", "email": "sales@valisons.com", "threadId": "1a15d462718fc5c3", "category": "taparia" },
+    { "name": "Dadu Fasteners", "email": "info@dadufasteners.co.in", "threadId": "1a15d46329c7ebc7", "category": "fasteners" },
+    { "name": "Razzor Precision Fasteners", "email": "sales@razzorprecisionfasteners.co.in", "threadId": "1a15d4642d03cc8f", "category": "fasteners" },
+    { "name": "Swarna Fasteners", "email": "sid@swarnafasteners.com", "threadId": "1a15d464ecb27560", "category": "fasteners" },
+    { "name": "Caparo Fasteners", "email": "info@caparo.co.in", "threadId": "1a15d465c598e6a6", "category": "fasteners" },
+    { "name": "Rubber Hose India", "email": "info@rubberhoseindia.com", "threadId": "1a15d466555b4df2", "category": "hydraulics" },
+    { "name": "Wire Rope India", "email": "info@wireropeindia.co.in", "threadId": "1a15d46753fa6f19", "category": "lifting" },
+    { "name": "Wellworth Wire Ropes", "email": "sales@wellworthwireropes.com", "threadId": "1a15d46966e5de28", "category": "lifting" },
+    { "name": "Hemson Associates", "email": "hem_asso99@yahoo.co.in", "threadId": "1a15d46a4c0cac6a", "category": "lifting" },
+    { "name": "Levsen Controls", "email": "info@levsen.in", "threadId": "1a15d46ab426e1ba", "category": "pressure-gauge" },
+    { "name": "Impel Market", "email": "info@impelmkt.com", "threadId": "1a15d46b826093b6", "category": "pressure-gauge" },
+    { "name": "Link Engineers", "email": "amit@linkengineers.net", "threadId": "1a15d46bee6fc81e", "category": "pressure-gauge" },
+    { "name": "NPK Industries", "email": "info@npkindustries.in", "threadId": "1a15d46c5086cec9", "category": "pressure-gauge" },
+    { "name": "Gofastening", "email": "sales@gofastening.com", "threadId": "1a15d46cb4cb38e7", "category": "general-mro" },
+    { "name": "IndustryMRO", "email": "info@industrymro.com", "threadId": "1a15d46d83aec0b6", "category": "general-mro" }
+  ]
+}

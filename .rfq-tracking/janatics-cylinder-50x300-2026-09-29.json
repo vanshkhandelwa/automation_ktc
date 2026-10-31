@@ -1,0 +1,189 @@
+{
+  "enquiry": "Janatics Double Acting Magnetic Cylinder 50x300 mm, rod 20 mm, 0.5-10 bar, qty 4 — PR 1200038629 / mat 1010439 / RHI Magnesita Jamshedpur BOQ",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "quantity": 4,
+  "sentAt": "2026-09-29T12:35:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "labelStatus": "applied Label_9 to all 18 threads",
+  "completedAt": "2026-09-29T12:44:00.000Z",
+  "subject": "Requirement for Janatics Double Acting Magnetic Cylinder 50 x 300 mm — qty 4",
+  "specs": {
+    "make": "Janatics",
+    "item": "Double Acting Pneumatic Cylinder",
+    "pistonType": "Magnetic",
+    "boreMm": 50,
+    "strokeMm": 300,
+    "rodMm": 20,
+    "pressureBar": "0.5-10",
+    "likelyModel": "A27050300O",
+    "materialCode": "1010439",
+    "prLine": "1200038629 / 60"
+  },
+  "dealersEmailed": [
+    {
+      "name": "Janatics Delhi",
+      "email": "janatics_del@janatics.co.in",
+      "authorised": "Confirmed",
+      "threadId": "1a0ed28a8fb323b7",
+      "messageId": "1a0ed28a8fb323b7",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Janatics HO",
+      "email": "janatics_ho@janatics.co.in",
+      "authorised": "Confirmed",
+      "threadId": "1a0ed28acaacb313",
+      "messageId": "1a0ed28acaacb313",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Janatics Mumbai",
+      "email": "janatics_mum@janatics.co.in",
+      "authorised": "Confirmed",
+      "threadId": "1a0ed28ac3363eef",
+      "messageId": "1a0ed28ac3363eef",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Janatics Mumbai-2",
+      "email": "janatics_mum2@janatics.co.in",
+      "authorised": "Confirmed",
+      "threadId": "1a0ed28adad29719",
+      "messageId": "1a0ed28adad29719",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Janatics Pune",
+      "email": "janatics_pne@janatics.co.in",
+      "authorised": "Confirmed",
+      "threadId": "1a0ed28bab470fbc",
+      "messageId": "1a0ed28bab470fbc",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Janatics Ahmedabad",
+      "email": "janatics_ahd@janatics.co.in",
+      "authorised": "Confirmed",
+      "threadId": "1a0ed28c7018dad8",
+      "messageId": "1a0ed28c7018dad8",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Janatics Bangalore",
+      "email": "janatics_blr@janatics.co.in",
+      "authorised": "Confirmed",
+      "threadId": "1a0ed28f0d8b57ad",
+      "messageId": "1a0ed28f0d8b57ad",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Janatics Chennai",
+      "email": "janatics_chn@janatics.co.in",
+      "authorised": "Confirmed",
+      "threadId": "1a0ed28fdeeb2488",
+      "messageId": "1a0ed28fdeeb2488",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Janatics Hyderabad",
+      "email": "janatics_hyd@janatics.co.in",
+      "authorised": "Confirmed",
+      "threadId": "1a0ed29084b8de30",
+      "messageId": "1a0ed29084b8de30",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Janatics Indore",
+      "email": "janatics_indr@janatics.co.in",
+      "authorised": "Confirmed",
+      "threadId": "1a0ed2914c3355ac",
+      "messageId": "1a0ed2914c3355ac",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Janatics Kolkata",
+      "email": "janatics_kol@janatics.co.in",
+      "authorised": "Confirmed",
+      "threadId": "1a0ed291e8b2eefd",
+      "messageId": "1a0ed291e8b2eefd",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Maniar Enterprise (Umar)",
+      "email": "umarmaniar7@gmail.com",
+      "authorised": "Likely",
+      "threadId": "1a0ed292cd79002b",
+      "messageId": "1a0ed292cd79002b",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Maniar Enterprise",
+      "email": "info@maniarenterprise.in",
+      "authorised": "Likely",
+      "threadId": "1a0ed2959241ce11",
+      "messageId": "1a0ed2959241ce11",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "VSM / IEC (Gmail)",
+      "email": "vsent7@gmail.com",
+      "authorised": "Likely",
+      "threadId": "1a0ed296117a5ed1",
+      "messageId": "1a0ed296117a5ed1",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "VSM / IEC (Hotmail)",
+      "email": "vsm_iec@hotmail.com",
+      "authorised": "Likely",
+      "threadId": "1a0ed296dee24d33",
+      "messageId": "1a0ed296dee24d33",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Ampri Group (support)",
+      "email": "support@amprigroup.in",
+      "authorised": "Likely",
+      "threadId": "1a0ed29894adc742",
+      "messageId": "1a0ed29894adc742",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Sanjay Bansal",
+      "email": "sanjaybansal1968@gmail.com",
+      "authorised": "Likely",
+      "threadId": "1a0ed299620bf00e",
+      "messageId": "1a0ed299620bf00e",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Ampri Group (Amit)",
+      "email": "amit@amprigroup.in",
+      "authorised": "Likely",
+      "threadId": "1a0ed3296fe2dca4",
+      "messageId": "1a0ed3296fe2dca4",
+      "reminderSent": false,
+      "quoteLogged": false
+    }
+  ],
+  "dealersPending": [],
+  "whatsappPending": true
+}

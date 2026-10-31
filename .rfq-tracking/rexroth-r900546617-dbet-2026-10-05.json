@@ -1,0 +1,35 @@
+{
+  "enquiry": "Bosch Rexroth proportional relief valve R900546617 DBET52/315G24K4M — 1 PC",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-05T15:20:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "labelId": "Label_9",
+  "emailCount": 9,
+  "subject": "Requirement for Bosch Rexroth proportional relief valve R900546617 — qty 1",
+  "recipients": [
+    { "name": "Bosch Rexroth India", "email": "info@boschrexroth.co.in", "threadId": "1a10ca20a6b4304c" },
+    { "name": "Indotech Hydraulics", "email": "info@indotechhydraulics.com", "threadId": "1a10ca208096726c" },
+    { "name": "Hydraulic Parts India", "email": "sales@hydraulicpartsindia.in", "threadId": "1a10ca209f05b7be" },
+    { "name": "Advance Hydraulic Works", "email": "advancehydraulicwork@gmail.com", "threadId": "1a10ca208674bc47" },
+    { "name": "Fluid Power Hydraulics", "email": "hydraulics@fluidpowergroup.co.in", "threadId": "1a10ca20a62d16ab" },
+    { "name": "Excellent Hydraulics", "email": "enquiry@excellenthydraulics.in", "threadId": "1a10ca22d23d9098" },
+    { "name": "Multitech India", "email": "mrohit87us@gmail.com", "threadId": "1a10ca233f1d74b5" },
+    { "name": "Rishi Hydraulics", "email": "sales@rishihydraulics.com", "threadId": "1a10ca2396f095f3" },
+    { "name": "New Perfect Hydraulic Works", "email": "newperfecthydraulicworks@gmail.com", "threadId": "1a10ca240582c95a" }
+  ],
+  "whatsappSentAt": "2026-10-05T15:35:00.000Z",
+  "dealersWhatsApp": [
+    { "name": "Indotech / New Perfect", "phone": "919891230786", "waId": "3EB0BE21BD247184EA69F2", "note": "single WA; both emailed separately" },
+    { "name": "Hydraulic Parts India", "phone": "918368767171", "waId": "3EB028433FAA5536F1352D" },
+    { "name": "Multitech India", "phone": "918920689377", "waId": "3EB0F1B817E7F49910DDC8" },
+    { "name": "Rishi Hydraulics", "phone": "919999016129", "waId": "3EB0A74C17189680B6070D" },
+    { "name": "Excellent Hydraulics", "phone": "918411884206", "waId": "3EB01D044C9C72EE59BC68" },
+    { "name": "Fluid Power Hydraulics", "phone": "919444396544", "waId": "3EB0FC418F70A9AA1D777B" }
+  ],
+  "whatsappSkipped": [
+    { "name": "Advance Hydraulic Works", "phone": "8042756439", "reason": "not on WhatsApp" },
+    { "name": "Bosch Rexroth India", "reason": "OEM desk — email only" }
+  ]
+}

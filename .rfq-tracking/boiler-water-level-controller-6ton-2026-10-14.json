@@ -1,0 +1,29 @@
+{
+  "enquiry": "Level Controller (Relay - WATER LEVEL CONTROLLER_BOILER 6 TON) — 02 Nos",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-14T16:05:00.000+05:30",
+  "gmailLabel": "RFQ/Sent",
+  "dealers": [
+    {"dealer": "Thermodyne Engineering", "email": "sales@thermodyneboilers.com", "threadId": "1a139f8928e1766c"},
+    {"dealer": "Steamgen Control Systems", "email": "mkt@steamgenglobal.com", "threadId": "1a139f893dacdb2e"},
+    {"dealer": "Baldota", "email": "info@baldota.co", "threadId": "1a139f894e90f75e"},
+    {"dealer": "Forbes Marshall", "email": "enquiries@forbesmarshall.com", "threadId": "1a139f8931f8eabf"},
+    {"dealer": "Microdesign", "email": "response@microdesign.in", "threadId": "1a139f89d2be63b8"},
+    {"dealer": "Sehgal n Sehgal", "email": "Mail@sehgalnsehgal.com", "threadId": "1a139f8c46ea6c0e"},
+    {"dealer": "Steam Techno", "email": "steamtechnokol@gmail.com", "threadId": "1a139f89796ee254"}
+  ],
+  "whatsapp": [],
+  "whatsappPending": [
+    {"dealer": "Thermodyne", "phone": "9990226006"},
+    {"dealer": "Steamgen", "phone": "9650122727"},
+    {"dealer": "Microdesign", "phone": "9821588203"},
+    {"dealer": "Steam Techno", "phone": "9431021713"},
+    {"dealer": "Sehgal n Sehgal", "phone": "8448589711"}
+  ],
+  "whatsappSkipped": [
+    {"dealer": "Forbes Marshall", "reason": "Corporate email only; no WA in shortlist"},
+    {"dealer": "Baldota", "reason": "Landline office; email sent"}
+  ]
+}

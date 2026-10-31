@@ -1,0 +1,23 @@
+{
+  "enquiry": "Mixed relay & relay base BOQ — 16 lines (WEHRLE, OEN, Finder, Hella, Siemens, Durite, Salzer, EAPL, PLA)",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-21T06:51:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "labelId": "Label_9",
+  "emailCount": 8,
+  "pendingLines": [
+    { "line": 1, "part": "RELAY 53 201 101", "make": "WEHRLE", "qty": 2, "note": "No India dealer with public email; not emailed" }
+  ],
+  "recipients": [
+    { "name": "Finder India", "email": "finder.in@findernet.com", "messageId": "1a15d3d4ee9b1742", "threadId": "1a15d3d4ee9b1742", "items": "Finder relays/bases lines 3,5,8,13,15,16" },
+    { "name": "O/E/N India Delhi", "email": "oendelhi@oenindia.com", "messageId": "1a15d3d54de19008", "threadId": "1a15d3d54de19008", "items": "58-12-2C line 2" },
+    { "name": "Salzer Electronics", "email": "sales@salzergroup.com", "messageId": "1a15d3d5b5ea7f2f", "threadId": "1a15d3d5b5ea7f2f", "items": "MSP2P24A, MSP2P240A lines 10-11" },
+    { "name": "EAPL", "email": "info@eaplindiamail.com", "messageId": "1a15d3d6498bafab", "threadId": "1a15d3d6498bafab", "items": "PMD-03 line 12" },
+    { "name": "HELLA India IAM", "email": "CareIndia.IAM@forvia.com", "messageId": "1a15d3d6b3395369", "threadId": "1a15d3d6b3395369", "items": "4JZ 177 846-00 line 4" },
+    { "name": "Shivam Electricals", "email": "info@shivamelectricals.net.in", "messageId": "1a15d3d7566a9159", "threadId": "1a15d3d7566a9159", "items": "3TK2825-1BB40, LZS:PT5A5L24 lines 6-7" },
+    { "name": "AES India", "email": "sales@aes-india.co.in", "messageId": "1a15d3d76d64f73e", "threadId": "1a15d3d76d64f73e", "items": "Durite 0-727-24 line 9" },
+    { "name": "PLA Components", "email": "sales@plarelays.com", "messageId": "1a15d3d8f62a21a7", "threadId": "1a15d3d8f62a21a7", "items": "MPC-2C relay base line 14" }
+  ]
+}

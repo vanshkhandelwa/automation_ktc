@@ -1,0 +1,60 @@
+{
+  "enquiry": "AIR CHIPPER CH-24, 184MM, 1 PC, Nitto Kohki Japan pneumatic chipping hammer",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "quantity": 1,
+  "sentAt": "2026-09-29T11:14:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "subject": "Requirement for Nitto Kohki Air Chipper CH-24 (184 mm) — qty 1",
+  "specs": {
+    "make": "Nitto Kohki Japan",
+    "item": "Pneumatic Air Chipper / Chipping Hammer",
+    "model": "CH-24",
+    "lengthMm": 184
+  },
+  "dealersEmailed": [
+    {
+      "name": "Nitto Kohki India",
+      "email": "nk@nitto-kohki.co.in",
+      "authorised": "Confirmed",
+      "threadId": "1a0ecdf9103031bc",
+      "messageId": "1a0ecdf9103031bc",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Mahendra Tools & Machines (sales)",
+      "email": "sales@mahendratools.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0ecdf939275cfe",
+      "messageId": "1a0ecdf939275cfe",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Mahendra Tools & Machines",
+      "email": "mahendra@mahendratools.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0ecdf967d07ee6",
+      "messageId": "1a0ecdf967d07ee6",
+      "reminderSent": false,
+      "quoteLogged": false
+    }
+  ],
+  "whatsappPending": [],
+  "whatsappSentAt": "2026-09-29T11:15:00.000Z",
+  "dealersWhatsApp": [
+    {
+      "name": "Mahendra Tools & Machines",
+      "phone": "919930780585",
+      "waId": "3EB093F45EFA840DB4D98D",
+      "authorised": "Confirmed"
+    }
+  ],
+  "whatsappSkipped": [
+    {
+      "name": "Nitto Kohki India",
+      "reason": "no public WhatsApp mobile (office landline)"
+    }
+  ]
+}

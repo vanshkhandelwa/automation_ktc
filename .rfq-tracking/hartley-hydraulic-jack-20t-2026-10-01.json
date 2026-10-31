@@ -1,0 +1,60 @@
+{
+  "enquiry": "HYDRAULIC JACK 20 TON - Hydraulic Cylinders Jack with Hand Pump, Lifting Range 55-100 mm, Load Capacity 20 Ton, Collapsed Height 55 mm, Extended Height 100 mm. Make: Hartley. Qty 5 pcs",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "quantity": 5,
+  "status": "sent",
+  "sentAt": "2026-10-01T05:42:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "labelStatus": "applied Label_9 to all 4 threads",
+  "subject": "Requirement for Hartley Hydraulic Jack 20 Ton with Hand Pump — qty 5",
+  "specs": {
+    "make": "Hartley",
+    "item": "Hydraulic Cylinder Jack with Hand Pump",
+    "loadTon": 20,
+    "liftingRangeMm": "55-100",
+    "collapsedHeightMm": 55,
+    "extendedHeightMm": 100,
+    "likelyModels": ["RSC-2050+180", "FPY-20+180"]
+  },
+  "dealersEmailed": [
+    {
+      "name": "Gripex Tools LLP / Hartley",
+      "email": "Sales@gripextools.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0f5fc6fd916a6f",
+      "messageId": "1a0f5fc6fd916a6f",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Nutronics India",
+      "email": "info@nutronicsindia.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0f5fc8bf4eb464",
+      "messageId": "1a0f5fc8bf4eb464",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Ishan Gupta / Nutronics",
+      "email": "ishan.nutronics@gmail.com",
+      "authorised": "Likely",
+      "threadId": "1a0f5fc91a7d0a48",
+      "messageId": "1a0f5fc91a7d0a48",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Industrybuying",
+      "email": "sales@industrybuying.com",
+      "authorised": "Unverified (marketplace)",
+      "threadId": "1a0f5fc92255fbcf",
+      "messageId": "1a0f5fc92255fbcf",
+      "reminderSent": false,
+      "quoteLogged": false
+    }
+  ],
+  "dealersPending": [],
+  "whatsappPending": false
+}

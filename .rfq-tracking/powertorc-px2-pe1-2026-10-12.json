@@ -1,0 +1,20 @@
+{
+  "enquiry": "Hex-series hydraulic torque wrench PX-2 + PE-1 power pack + 6m hose (BOQ Hexa Series)",
+  "make": "POWERTORC",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "qty": 1,
+  "status": "sent",
+  "sentAt": "2026-10-12T15:25:00.000+05:30",
+  "gmailLabel": "RFQ/Sent",
+  "sent": [
+    {"dealer": "POWERTORC OEM", "email": "info@powertorcbolting.com", "threadId": "1a12f8893fb63e99"},
+    {"dealer": "Industrybuying", "email": "sales@industrybuying.com", "threadId": "1a12f8897d886ab6"}
+  ],
+  "whatsapp": [
+    {"dealer": "POWERTORC", "phone": "9167943999", "id": "3EB0D8ADACAC7555EDEAF8", "status": "sent"}
+  ],
+  "whatsappSkipped": [
+    {"dealer": "Industrybuying", "phone": "9650660070", "reason": "Not on WhatsApp"}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "enquiry": "Worm wheel + worm shaft for U-400 G/B ratio 10:1, gearbox make Premium — 4 PC each",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "sentAt": "2026-09-24T07:00:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "subject": "Requirement for Premium U-400 Worm Wheel & Worm Shaft (Ratio 10:1)",
+  "skipped": [
+    {"name": "Premium Transmission Ltd (OEM)", "reason": "Owner requested no email/WhatsApp to Premium Transmission"}
+  ],
+  "dealersEmailed": [
+    {"name": "Santram Engineers (SEPL)", "email": "sales@santramengineers.com", "threadId": "1a0d237f87b43668", "messageId": "1a0d237f87b43668", "phone": "919624739393", "reminderSent": false, "quoteLogged": false},
+    {"name": "Vedant Equip Sales & Services", "email": "vedant@vedantequip.com", "threadId": "1a0d237fb74a7dea", "messageId": "1a0d237fb74a7dea", "phone": "919822911525", "reminderSent": false, "quoteLogged": false},
+    {"name": "Dhanlaxmi Engineer", "email": "info@dhanlaxmiengineer.com", "threadId": "1a0d237f9e07bac4", "messageId": "1a0d237f9e07bac4", "phone": "919821549326", "reminderSent": false, "quoteLogged": false},
+    {"name": "Paarc Industries", "email": "som.paarc@gmail.com", "threadId": "1a0d237f980ec221", "messageId": "1a0d237f980ec221", "phone": "919620903999", "reminderSent": false, "quoteLogged": false}
+  ],
+  "dealersWhatsApp": [
+    {"name": "Santram Engineers (SEPL)", "phone": "919624739393", "waId": "3EB04AD57A3375842CBF89"}
+  ],
+  "whatsappSkipped": [
+    {"name": "Premium Transmission Ltd (OEM)", "reason": "owner excluded"},
+    {"name": "Dhanlaxmi Engineer", "phone": "919821549326", "reason": "not on WhatsApp"},
+    {"name": "Vedant Equip main", "phone": "919822911525", "reason": "not on WhatsApp"},
+    {"name": "Paarc Industries", "phone": "919620903999", "reason": "send approval interrupted"},
+    {"name": "Vedant Equip alt", "phone": "919822911526", "reason": "send approval interrupted; number is on WhatsApp"}
+  ]
+}
+}

@@ -1,0 +1,16 @@
+{
+  "enquiry": "SOC pendant: SH/12D double speed; thermoplastic 10 double-step + Start/Alarm + E-Stop with cable sleeve",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-21T07:34:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "labelId": "Label_9",
+  "emailCount": 3,
+  "pricingNote": "Unit rate per single piece requested; no order quantity stated",
+  "recipients": [
+    { "name": "Speed-O-Controls Mumbai", "email": "sales@socgroup.in", "threadId": "1a15d621bfb7a032" },
+    { "name": "Speed-O-Controls Ahmedabad", "email": "enquiry2@socgroup.in", "threadId": "1a15d6220c8057ec" },
+    { "name": "Swati Overseas", "email": "rohit@swatioverseas.com", "threadId": "1a15d622b84fcd3b" }
+  ]
+}

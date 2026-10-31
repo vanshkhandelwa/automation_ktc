@@ -1,0 +1,31 @@
+{
+  "enquiry": "Fluke 320+ clamp meter x2; Taparia combination plier 8in x8; line tester 813 x15; insulated screwdriver 12in 2-in-1 x10",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-16T11:45:00.000+05:30",
+  "gmailLabel": "RFQ/Sent",
+  "items": [
+    {"description": "Digital clamp meter Fluke 320+", "make": "Fluke", "qty": 2},
+    {"description": "Combination plier 8 inch", "make": "Taparia", "qty": 8},
+    {"description": "Line tester 813", "make": "Taparia", "qty": 15},
+    {"description": "Insulated screwdriver 12 inch 2-in-1 (+/-)", "make": "Taparia", "qty": 10}
+  ],
+  "flukeScope": [
+    {"dealer": "Fluke India", "email": "info.india@fluke.com", "threadId": "1a14355bdfee52f1"},
+    {"dealer": "BE Electricals", "email": "sales@beelectricals.com", "threadId": "1a14355ba73073e0"},
+    {"dealer": "Paramhans Industry", "email": "Sales@Paramhansindustry.com", "threadId": "1a14355ba0cd2e8d"},
+    {"dealer": "Pune Integrated Solutions", "email": "sales@puneintegrated.com", "threadId": "1a14355bb4858ee7"}
+  ],
+  "tapariaScope": [
+    {"dealer": "Taparia Tools OEM", "email": "sales@tapariatools.com", "threadId": "1a14355ba76ebfdc"},
+    {"dealer": "Valisons & Co.", "email": "sales@valisons.com", "threadId": "1a14355be8cfd5f9"},
+    {"dealer": "Joshi Tools & Electronics", "email": "sales108@joshitools.com", "threadId": "1a14355c39ffe80e"},
+    {"dealer": "Smith Engineering", "email": "office@smithtools.in", "threadId": "1a14355c98df34c0"}
+  ],
+  "fullBom": [
+    {"dealer": "Industrybuying", "email": "sales@industrybuying.com", "threadId": "1a14355d016da060"},
+    {"dealer": "Eleczo", "email": "sales@eleczo.com", "threadId": "1a14355d60c79165"}
+  ],
+  "whatsapp": []
+}

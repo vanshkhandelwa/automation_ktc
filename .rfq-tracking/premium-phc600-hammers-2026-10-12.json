@@ -1,0 +1,29 @@
+{
+  "enquiry": "Hammer set PHC-600 hammer mill — Premium Pulverizers — 60 PC",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-12T15:40:00.000+05:30",
+  "gmailLabel": "RFQ/Sent",
+  "tierA": [
+    {"dealer": "Premium Pulman OEM", "email": "exports@premiumpulverisers.com", "threadId": "1a12f932decb20cc"},
+    {"dealer": "Metamech Engineers", "email": "info@premiumengineers.com", "threadId": "1a12f9324a85cac3"},
+    {"dealer": "Premium Engineers", "email": "premiumgroup@hotmail.com", "threadId": "1a12f932ceba92a0"}
+  ],
+  "tierB": [
+    {"dealer": "Delite Engineering Works", "email": "info@deliteengineeringworks.com", "threadId": "1a12f932ad170315"},
+    {"dealer": "Ananda Industries", "email": "kumarmuthu52@yahoo.com", "threadId": "1a12f9335fbc1fa9"}
+  ],
+  "tierC": [
+    {"dealer": "Industrybuying", "email": "sales@industrybuying.com", "threadId": "1a12f933d202ed7c"}
+  ],
+  "whatsapp": [
+    {"dealer": "Premium Pulman (group)", "phone": "7575803903", "id": "3EB0F78DE06AD39FC3803A", "note": "Covers Tier A emails"},
+    {"dealer": "Delite Engineering", "phone": "9157580222", "id": "3EB0C373D14C26E91B58BB"},
+    {"dealer": "Ananda Industries", "phone": "9448352675", "id": "3EB00E1695673128EF4EBE"}
+  ],
+  "whatsappSkipped": [
+    {"dealer": "Metamech / Premium Engineers", "reason": "No separate mobile on WhatsApp; routed via 7575803903 message"},
+    {"dealer": "Industrybuying", "phone": "9650660070", "reason": "Not on WhatsApp"}
+  ]
+}

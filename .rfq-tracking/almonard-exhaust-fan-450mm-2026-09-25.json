@@ -1,0 +1,95 @@
+{
+  "enquiry": "Almonard Heavy Duty Exhaust Fan (M Series / 450-18 H/D), 450 mm (18 inches), qty 5 pcs",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "quantity": 5,
+  "sentAt": "2026-09-25T07:31:00.000Z",
+  "gmailLabel": "RFQ/Sent",
+  "subject": "Requirement for Almonard Heavy Duty Exhaust Fan 450 mm (18\") — M Series / H/D",
+  "dealersEmailed": [
+    {
+      "name": "Almonard Pvt Ltd — Delhi",
+      "email": "almonard.del@gmail.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0d779ac0353ec8",
+      "messageId": "1a0d779ac0353ec8",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Almonard Pvt Ltd — Jaipur",
+      "email": "almonardpinkcity@yahoo.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0d779ba1cdcea4",
+      "messageId": "1a0d779ba1cdcea4",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Almonard Pvt Ltd — HO Sales",
+      "email": "salesalmonard@gmail.com",
+      "authorised": "Confirmed",
+      "threadId": "1a0d779c6f64821b",
+      "messageId": "1a0d779c6f64821b",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Ajit Electricals (Pune)",
+      "email": "ajitelectricalssales@gmail.com",
+      "authorised": "Likely",
+      "threadId": "1a0d779d1c3b1785",
+      "messageId": "1a0d779d1c3b1785",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Mojo Marketing (Tirunelveli)",
+      "email": "sales@mojomarketingtvl.com",
+      "authorised": "Likely",
+      "threadId": "1a0d779dbcb5f865",
+      "messageId": "1a0d779dbcb5f865",
+      "reminderSent": false,
+      "quoteLogged": false
+    }
+  ],
+  "whatsappSentAt": "2026-09-25T07:40:00.000Z",
+  "dealersWhatsApp": [
+    {
+      "name": "Almonard Jaipur",
+      "phone": "919829620541",
+      "waId": "3EB02B9EECF85FD4AF7EEE",
+      "authorised": "Confirmed"
+    },
+    {
+      "name": "Almonard Pune (OEM)",
+      "phone": "919892080129",
+      "waId": "3EB09E1EEE8777031FF1FF",
+      "authorised": "Confirmed"
+    },
+    {
+      "name": "Almonard Vasai warehouse",
+      "phone": "919820116027",
+      "waId": "3EB0D5AEBB03379412CE5D",
+      "authorised": "Confirmed"
+    },
+    {
+      "name": "Ajit Electricals (Pune)",
+      "phone": "918484042651",
+      "waId": "3EB03DD5D79381561CF5CB",
+      "authorised": "Likely"
+    },
+    {
+      "name": "Mojo Marketing (Tirunelveli)",
+      "phone": "918012222144",
+      "waId": "3EB0B5B025CE05B3812E9C",
+      "authorised": "Likely"
+    }
+  ],
+  "whatsappSkipped": [
+    {
+      "name": "Almonard Delhi",
+      "reason": "landline only; no public mobile on WhatsApp"
+    }
+  ]
+}

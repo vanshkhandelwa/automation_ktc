@@ -1,0 +1,29 @@
+{
+  "enquiry": "Grundfos multistage centrifugal pump CR3-11 A-FGJ-A-E-HQQE — qty 1",
+  "nameplate": {
+    "serial": "A96516658P11137",
+    "flowM3h": 3,
+    "p2Kw": 1.1,
+    "hz": 50,
+    "headM": 52.7,
+    "headMaxM": 72.6,
+    "rpm": 2853
+  },
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-16T10:50:00.000+05:30",
+  "gmailLabel": "RFQ/Sent",
+  "dealers": [
+    {"dealer": "Grundfos India", "email": "contact.india@sales.grundfos.com", "threadId": "1a1432534e73ae0d"},
+    {"dealer": "Grundfos India (sales)", "email": "salesindia@grundfos.com", "threadId": "1a143253668897d6"},
+    {"dealer": "Boche Pumps LLP", "email": "dhananjay@bochepumps.in", "threadId": "1a143253be107145"},
+    {"dealer": "Krishna Enterprises (Gurgaon)", "email": "gurgaonpumps@gmail.com", "threadId": "1a1432536e7a5e72"},
+    {"dealer": "Pump Wala & Co.", "email": "pumpwala@gmail.com", "threadId": "1a1432567c9e74a6"},
+    {"dealer": "INDMA (Grundfos channel)", "email": "sales@indma.in", "threadId": "1a143253402102b8"},
+    {"dealer": "Industrial Sales & Mfg (Jaipur)", "email": "ismc123@gmail.com", "threadId": "1a143253a9089300"},
+    {"dealer": "Nangia Traders (Jaipur)", "email": "gagannangia@yahoo.com", "threadId": "1a143253c6c167d4"},
+    {"dealer": "Sumit Enterprises (Gurgaon)", "email": "sumitenterprises60@gmail.com", "threadId": "1a14325460a08aef"}
+  ],
+  "whatsapp": []
+}

@@ -1,0 +1,79 @@
+{
+  "enquiry": "APV Enterprises Siemens motors (8 line items)",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "subject": "Requirement for Siemens industrial motors (S1 / S4 crane / flange) – Bhiwadi",
+  "sentAt": "2026-09-20T08:00:00.000Z",
+  "reminderAfterDays": 2,
+  "lastCheckedAt": "2026-09-21T19:24:00.000Z",
+  "dealers": [
+    {
+      "name": "Debak Enterprises",
+      "email": "info@debak.co",
+      "threadId": "1a0bdd5dfaa2386c",
+      "messageId": "1a0bdd5dfaa2386c",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "S.B. Syscon",
+      "email": "info@sbsyscon.in",
+      "threadId": "1a0bdd69c3e50e51",
+      "messageId": "1a0bdd69c3e50e51",
+      "replyMessageId": "1a0c3e6198553e10",
+      "reminderSent": false,
+      "quoteLogged": true,
+      "quotedAt": "2026-09-21T12:17:06Z",
+      "quoteRef": "SBSPL/QTN/26-27/6717",
+      "eff": "IE2"
+    },
+    {
+      "name": "The Indian Electric Co.",
+      "email": "sales@indianelectric.com",
+      "threadId": "1a0bdd60305aba4d",
+      "messageId": "1a0bdd60305aba4d",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "Vashi Integrated Solutions",
+      "email": "sales@vashiisl.com",
+      "threadId": "1a0bdd61d4a9a887",
+      "messageId": "1a0bdd61d4a9a887",
+      "replyMessageId": "1a0c3da7efa94c93",
+      "reminderSent": false,
+      "quoteLogged": true,
+      "quotedAt": "2026-09-21T12:04:29Z",
+      "status": "clarification_requested_nameplate"
+    },
+    {
+      "name": "SALOC Technologies",
+      "email": "enquiry@saloc.in",
+      "threadId": "1a0bdd69f900a4fe",
+      "messageId": "1a0bdd69f900a4fe",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "We Tech Power Solutions",
+      "email": "info@wtpsl.com",
+      "threadId": "1a0bdd64aaba0f13",
+      "messageId": "1a0bdd64aaba0f13",
+      "reminderSent": false,
+      "quoteLogged": false
+    },
+    {
+      "name": "K Dhandapani & Co.",
+      "email": "blr@kdhandapani.com",
+      "threadId": "1a0bdd6483a30cc6",
+      "messageId": "1a0bdd6483a30cc6",
+      "replyMessageId": "1a0c28d65f722e4f",
+      "lpDiscountMessageId": "1a0c3ee85126ca99",
+      "reminderSent": false,
+      "quoteLogged": true,
+      "quotedAt": "2026-09-21T06:00:04Z",
+      "lpDiscountAt": "2026-09-21T12:25:45Z",
+      "eff": "IE3"
+    }
+  ]
+}

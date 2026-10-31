@@ -1,0 +1,30 @@
+{
+  "enquiry": "Bearing housing SNL 511-609 MAKE SKF",
+  "quantityNote": "RFQ per piece / MOQ — buyer qty not specified",
+  "company": "Krishna Trading Company",
+  "delivery": "Bhiwadi, Rajasthan",
+  "status": "sent",
+  "sentAt": "2026-10-14T18:40:00.000+05:30",
+  "gmailLabel": "RFQ/Sent",
+  "dealers": [
+    {"dealer": "Vashi Integrated Solutions", "email": "sales@vashiisl.com", "threadId": "1a13a843302604bd"},
+    {"dealer": "Jai Krishna Bearing House", "email": "sales@jaikrishnabearing.com", "threadId": "1a13a8437d2b616c"},
+    {"dealer": "A S Bearing Company", "email": "info@asbearing.co.in", "threadId": "1a13a847b65787e4"},
+    {"dealer": "Patel Brothers (India)", "email": "sales@patelbrothersindia.com", "threadId": "1a13a8439246520f"},
+    {"dealer": "Advanced Industrial Solutions", "email": "sales@advancedind.in", "threadId": "1a13a843a3fd60d3"},
+    {"dealer": "RBC Bearings", "email": "info@rbcbearings.in", "threadId": "1a13a8445fc0691b"},
+    {"dealer": "SKF India (eMarketplace)", "email": "enquiry.onlineindia@skf.com", "threadId": "1a13a8453e001de7"}
+  ],
+  "whatsapp": [],
+  "whatsappPending": [
+    {"dealer": "Jai Krishna", "phone": "9650189559"},
+    {"dealer": "A S Bearing", "phone": "8699025718"},
+    {"dealer": "Advanced Industrial", "phone": "9842341058"},
+    {"dealer": "SKF India helpline", "phone": "8530410888"}
+  ],
+  "whatsappSkipped": [
+    {"dealer": "Vashi", "reason": "Email only unless WA number confirmed"},
+    {"dealer": "Patel Brothers", "reason": "Office landline"},
+    {"dealer": "RBC Bearings", "reason": "Chennai office line"}
+  ]
+}
