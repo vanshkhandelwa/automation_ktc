@@ -1,4 +1,6 @@
-# ProcureFlow
+# automation_ktc
+
+Krishna Trading Company procurement automation: ProcureFlow UI, Cursor RFQ agent rules, RFQ tracking, and related scripts.
 
 A first-release procurement workflow UI. It accepts an image or text requirement, shows a sourced dealer shortlist, requires batch approval before sending, and displays quotation tracking.
 
